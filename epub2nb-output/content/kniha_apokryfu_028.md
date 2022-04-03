@@ -1,8 +1,9 @@
 ---
+title: |-
+  Goneril,
+  dcera Learova
 contentType: prose
 ---
-
-## Goneril, dcera Learova
 
 Ne, nic mi není, chůvo, – a neříkej mi zlatá děvenko. Já vím, žes mi tak říkávala, když jsem byla malá; a král Lear mi říkal ty kluku mrňavá, viď? Byl by měl raději syna – co myslíš, jsou synové hodnější než děvčata? Regan byla odjakživa taková slečinka a Cordelie – vždyť víš: mouchy, snězte si mě. Hotové boží dřevo. A Regan – člověk by to do ní neřekl: nos nahoru jak královna, ale sobec, pamatuješ se? V ní to bylo ale odjakživa. Řekni, bábo, byla já jsem zlá, když jsem byla maličká? Tak vidíš.
 
@@ -18,4 +19,4 @@ Ne, já nepláču. Nemysli si, že mne to nějak trápí. Naopak, člověk je vo
 
 Chůvo, chůvo, chůvo, proč tehdy neviděli, že jsem byla v právu!
 
-Lidové noviny 29. 1. 1933
+_Lidové noviny 29. 1. 1933_

@@ -1,8 +1,7 @@
 ---
+title: Lazar
 contentType: prose
 ---
-
-## Lazar
 
 I do Betánie došla pověst o tom, že Galilejský byl zajat a odvlečen do vězení.
 
@@ -20,7 +19,7 @@ Marie se zvedla. „Já jdu také. Abych viděla, jak se otevrou stěny vězení
 
 Marta chtěla něco říci, ale spolkla to. „Jen jděte, děti,“ řekla. „Někdo tu musí hlídat – nakrmit drůbež a kozy – Já vám hned připravím šaty a nějaké placky. Jsem tak ráda, že tam budete!“
 
-\* \* \*
+* * *
 
 Když se vrátila zarudlá od žáru pece, byl Lazar zsinalý a neklidný. „Není mi dobře, Martičko,“ bručel. „Jak je venku?“
 
@@ -62,4 +61,4 @@ V tu chvíli vystoupila na dvorek Marie připravená na cestu. „Tak, Lazare, p
 
 Z očí Lazarových pomalu stékaly slzy. „Já bych šel tak rád s sebou, Marto, kdybych já se tak nebál … ještě jednou umřít!“
 
-Lidové noviny 27. 3. 1932
+_Lidové noviny 27. 3. 1932_

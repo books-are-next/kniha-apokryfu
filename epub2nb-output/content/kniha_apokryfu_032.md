@@ -1,8 +1,9 @@
 ---
+title: |-
+  Pan
+  Hynek Ráb z Kufštejna
 contentType: prose
 ---
-
-## Pan Hynek Ráb z Kufštejna
 
 Pan Janek Chval z Jankova se ještě nesebral z toho překvapení. Prosím vás, kde se vzal, tu se vzal, najednou se sem přihrne na návštěvu pan zeť, a jaký zeť, račte se podívat: má německé nohavice a maďarské kníry, inu, velký pán, jen co je pravda; a tuhle starý pan Janek zatím s vyhrnutými rukávy pomáhal při telení krávy. To je nadělení, myslí si starý pán rozpačitě, co mi ho sem čerti nesou?
 
@@ -60,4 +61,4 @@ Pan Hynek Ráb z Kufštejna plácl rozjařeně do stolu. „Pane tcháne, my se 
 
 „Wohl bekomm’s[\[32\]](./resources/undefined),“ děl starý Janek zdvořile.
 
-Lidové noviny 15. 1. 1933
+_Lidové noviny 15. 1. 1933_

@@ -1,8 +1,9 @@
 ---
+title: |-
+  Zpověď
+  Dona Juana
 contentType: prose
 ---
-
-## Zpověď Dona Juana
 
 Smrt nešťastné doni Elvíry byla pomstěna; don Juan Tenorio ležel s probodenou hrudí v Posadě de las Reinas a zřejmě umíral. „Emfyzém plic,“ bručel místní doktor. „Někdo by se z toho ještě vylízal, ale caballero tak vyžilý jako don Juan – To jsou těžké věci, Leporello[\[20\]](./resources/undefined); abych ti řekl, mně se nelíbí jeho srdce. Inu, to dá rozum: po takových excesech in venere[\[21\]](./resources/undefined) – vyloženě astenický případ, pánové. Já bych mu, Leporello, pro jistotu zavolal faráře: třeba ještě přijde k sobě, ačkoliv podle dnešního stavu vědy – já nevím. Mám tu čest se vám poroučet, caballeros.“
 
@@ -40,7 +41,7 @@ V tu chvíli hospodský Posady de las Reinas zaslechl burácející křik z poko
 
 Zmíněný křik trval hodně dlouho, tak dlouho, co bys boby uvařil; chvílemi se utlumil v důtklivé domlouvání, chvílemi se rozbřeskl v divoký ryk; náhle vyrazil z pokoje raněného pána padre Jacinto, rudý jako krocan, a volaje Matičku Boží prchal do kostela. Pak bylo v hospodě ticho; jen zkormoucený Leporello vklouzl do pokoje svého pána, jenž ležel se zavřenýma očima a sténal.
 
-\* \* \*
+* * *
 
 Odpoledne přijel do toho místa padre Ildefonso de Societate Jesu, který jel na mezku z Madridu do Burgosu; a protože bylo toho dne příliš horko, sestoupil u fary a navštívil otce Jacinta. Byl to vychrtlý kněz, vyschlý jako starý klobás a s obočím ježatým jako podpaží starého kavaleristy.
 
@@ -54,7 +55,7 @@ Když spolu popili kyselého mléka, upřel jezuita oči na otce Jacinta, který
 
 Don Ildefonso, S. J., mlčky přemítal. „Když myslíte,“ řekl konečně, „podívám se na toho muže.“
 
-\* \* \*
+* * *
 
 Don Juan dřímal, když don Ildefonso tiše vkročil do pokoje a kývnutím ruky poslal Leporella pryč; pak usedl na židli u hlavy postele a pozoroval přepadlou tvář umírajícího člověka.
 
@@ -88,4 +89,4 @@ Don Ildefonso vstal. „Chudáčku,“ řekl, „styděl jste se přiznati se k 
 
 I poslal pro faráře; a když přišel otec Jacinto, pravil mu don Ildefonso: „Hleďte, otče, doznal vše a plakal. Jeho lítost je nad veškeru pochybnost pokorná; snad bychom mu mohli udělit rozhřešení.“
 
-Lidové noviny 20. 3. 1932
+_Lidové noviny 20. 3. 1932_

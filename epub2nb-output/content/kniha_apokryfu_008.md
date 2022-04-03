@@ -1,8 +1,9 @@
 ---
+title: |-
+  Jako
+  za starých časů
 contentType: prose
 ---
-
-## Jako za starých časů
 
 K Eupatorovi, občanu thébskému a košíkáři, který sedě na dvorku pletl své koše, přiběhl jeho soused Filagoros a volal už zdálky: „Eupatore, Eupatore, nech svých košů a poslouchej! Dějí se hrozné věci!“
 
@@ -52,4 +53,4 @@ K Eupatorovi, občanu thébskému a košíkáři, který sedě na dvorku pletl s
 
 „Myslel jsem, že jim nevěříte; ale nemáte-li proč jim nevěřit, proč jim u všech všudy foukáte do jejich misek? Buď je to proto, že vám nezáleží na tom, aby se zjevila pravda, nebo proto, že se vám to jen hodí k tomu, abyste se mohli rozdělit na dvě strany a hádat se. Hrom do vás všech, Filagore; já nevím, je-li Nikomachos vinen, ale vy všichni jste zatraceně vinni tím, že byste rádi porušili spravedlnost. A je zvláštní, jak jsou letos pruty špatné; ohýbají se jako provázky, ale nemají žádnou pevnost. Mělo by být tepleji, Filagore; ale to je v rukou bohů, a ne nás lidí.“
 
-Lidové noviny 3. 8. 1926
+_Lidové noviny 3. 8. 1926_

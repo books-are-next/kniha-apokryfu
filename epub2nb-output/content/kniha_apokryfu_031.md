@@ -1,8 +1,9 @@
 ---
+title: |-
+  Romeo
+  a Julie
 contentType: prose
 ---
-
-## Romeo a Julie
 
 Mladý anglický šlechtic Oliver Mendeville, který se zdržoval v Itálii na studijní cestě, dostal ve Florencii zprávu, že jeho otec sir William opustil tento svět. I rozžehnal se sir Oliver s těžkým srdcem a hojnými slzami se signorinou Maddalenou přísahaje, že se vrátí co nejdříve, a vydal se se svým sluhou na cestu směrem k Janovu.
 
@@ -80,4 +81,4 @@ Sir Oliver vstával ve své celé rozpačité výšce. „Byl jste ohromně lask
 
 Do oken fary se rozlilo slunce.
 
-Lidové noviny 6. 11. 1932
+_Lidové noviny 6. 11. 1932_
