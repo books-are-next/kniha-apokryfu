@@ -1,8 +1,9 @@
 ---
+title: |-
+  Marta
+  a Maria
 contentType: prose
 ---
-
-## Marta a Maria
 
 I stalo se, když šli, že on všel do jednoho městečka. Žena pak jedna, jménem Marta, přijala jej do domu svého.
 
@@ -14,7 +15,7 @@ A odpověděv, řekl jí Ježíš: Marta, Marta, pečlivá jsi, a rmoutíš se p
 
 Ale jednohoť jest potřebí. Mariať dobrou stránku vyvolila, kteráž nebude odjata od ní.
 
-Evangelium sv. Lukáše, 10, 38–42
+_Evangelium sv. Lukáše, 10, 38–42_
 
 Toho večera pak vešla Marta k sousedce své Támar, ženě Jakuba Grünfelda, kteráž ležela v šestinedělí; a vidouc, že žár v krbu pohasíná, naložila polen a usedla u ohniště, aby roznítila oheň. A když vyšlehly živé plameny, dívala se ona Marta do ohně a mlčela.
 
@@ -74,4 +75,4 @@ Bylo chvíli ticho. „A to bylo všechno, co promluvil?“ ptala se paní Táma
 
 Tu Marta hlučně vysmrkala slzy a řekla: „Tak ukažte, paní Grünfeld, já vám převinu toho haranta.“
 
-Lidové noviny 3. 1. 1932
+_Lidové noviny 3. 1. 1932_

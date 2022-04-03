@@ -1,79 +1,80 @@
 ---
+title: |-
+  Hamlet,
+  princ dánský
 contentType: prose
 ---
 
-## Hamlet, princ dánský
+_Scéna X._
 
-Scéna X.
+_ROSENKRANTZ a GUILDENSTERN odcházejí._
 
-ROSENKRANTZ a GUILDENSTERN odcházejí.
-
-HAMLET: Okamžik ještě, milý Guildensterne,  
+**HAMLET**: Okamžik ještě, milý Guildensterne,  
 na slovo, Rosenkrantzi!
 
-ROSENKRANTZ: Prosím, princi?
+**ROSENKRANTZ**: Prosím, princi?
 
-GUILDENSTERN: Přál jste si, princi?
+**GUILDENSTERN**: Přál jste si, princi?
 
-HAMLET: Jenom otázku.  
+**HAMLET**: Jenom otázku.  
 Jak, řekli jste, to dvorní představení,  
 ta truchlohra o králi traviči  
 na krále působila?
 
-ROSENKRANTZ: Hrozně, princi.
+**ROSENKRANTZ**: Hrozně, princi.
 
-HAMLET: Opravdu, hrozně?
+**HAMLET**: Opravdu, hrozně?
 
-GUILDENSTERN: Král byl bez sebe.
+**GUILDENSTERN**: Král byl bez sebe.
 
-HAMLET: A královna?
+**HAMLET**: A královna?
 
-ROSENKRANTZ: Královna omdlévala.
+**ROSENKRANTZ**: Královna omdlévala.
 
-HAMLET: A ostatní?
+**HAMLET**: A ostatní?
 
-GUILDENSTERN: Koho tím Výsost míní?
+**GUILDENSTERN**: Koho tím Výsost míní?
 
-HAMLET: Nu, vy a dvořané a dvorní dámy,  
+**HAMLET**: Nu, vy a dvořané a dvorní dámy,  
 a kdo byl vůbec v síni přítomen,  
 když se to hrálo. Neříkali něco?
 
-ROSENKRANTZ: Nic, princi.
+**ROSENKRANTZ**: Nic, princi.
 
-GUILDENSTERN: Byli uchváceni tak,  
+**GUILDENSTERN**: Byli uchváceni tak,  
 že nemohli ni slova vypravit.
 
-HAMLET: Co Polonius?
+**HAMLET**: Co Polonius?
 
-GUILDENSTERN: Polonius štkal.
+**GUILDENSTERN**: Polonius štkal.
 
-HAMLET: A dvořané?
+**HAMLET**: A dvořané?
 
-ROSENKRANTZ: Dvořané vzlykali.  
+**ROSENKRANTZ**: Dvořané vzlykali.  
 Já sám jsem, princi, slz se nezdržel  
 a viděl jsem, jak přítel Guildenstern  
 rukávem skrýval zrádnou vláhu v očích.
 
-HAMLET: A vojáci?
+**HAMLET**: A vojáci?
 
-GUILDENSTERN: Ti odvraceli tvář,  
+**GUILDENSTERN**: Ti odvraceli tvář,  
 by ukryli své mocné pohnutí.
 
-HAMLET: Vy tedy myslíte, že ta hra byla –
+**HAMLET**: Vy tedy myslíte, že ta hra byla –
 
-ROSENKRANTZ: Ohromný úspěch.
+**ROSENKRANTZ**: Ohromný úspěch.
 
-GUILDENSTERN: Ale zasloužený.
+**GUILDENSTERN**: Ale zasloužený.
 
-ROSENKRANTZ: Ta skvělá stavba!
+**ROSENKRANTZ**: Ta skvělá stavba!
 
-GUILDENSTERN: A ten spádný děj!
+**GUILDENSTERN**: A ten spádný děj!
 
-HAMLET: Hm, přidal bych, že kus měl svoje chyby –
+**HAMLET**: Hm, přidal bych, že kus měl svoje chyby –
 
-ROSENKRANTZ: Promiňte, princi, jaké?
+**ROSENKRANTZ**: Promiňte, princi, jaké?
 
-HAMLET: Například…  
+**HAMLET**: Například…  
 Mohl být tuším ještě lépe hrán.  
 Já vím, ti herci dělali, co mohli,  
 leč jejich král, ten nebyl dosti králem  
@@ -82,51 +83,51 @@ být já tím vrahem, tu při Hekatě,
 i vrah by teprv poznal, co je vražda!  
 Posuďte sami!
 
-(Hraje.)
+_(Hraje.)_
 
-ROSENKRANTZ: Princi, ohromné!
+**ROSENKRANTZ**: Princi, ohromné!
 
-GUILDENSTERN: Zahráno skvěle!
+**GUILDENSTERN**: Zahráno skvěle!
 
-ROSENKRANTZ: Člověk řekl by,  
+**ROSENKRANTZ**: Člověk řekl by,  
 že, přisámbůh, jste někdy viděl vraha,  
 jak plíží se k své práci příšerné.
 
-HAMLET: Ne, Rosenkrantzi, to je prostě ve mně  
+**HAMLET**: Ne, Rosenkrantzi, to je prostě ve mně  
 – odkud a nač? Kdo ví? Pst, pojďte blíž.  
 Hamlet –
 
-GUILDENSTERN: Co, princi?
+**GUILDENSTERN**: Co, princi?
 
-HAMLET: – má své tajemství.
+**HAMLET**: – má své tajemství.
 
-ROSENKRANTZ: Aj, princi, věru?
+**ROSENKRANTZ**: Aj, princi, věru?
 
-HAMLET: Velké tajemství.  
+**HAMLET**: Velké tajemství.  
 Nic pro dvořany, ale pro uši  
 nejlepších přátel. Ke mně!
 
-GUILDENSTERN: Prosím, princi.
+**GUILDENSTERN**: Prosím, princi.
 
-HAMLET: Ne, žádný princ!
+**HAMLET**: Ne, žádný princ!
 
-GUILDENSTERN: Ne, Výsosti.
+**GUILDENSTERN**: Ne, Výsosti.
 
-HAMLET: Jen Hamlet.
+**HAMLET**: Jen Hamlet.
 
-GUILDENSTERN: Jak chcete, princi.
+**GUILDENSTERN**: Jak chcete, princi.
 
-HAMLET: Nuže, poslyšte  
+**HAMLET**: Nuže, poslyšte  
 a nechte pro sebe můj úmysl,  
 jenž pevně dozrál.
 
-ROSENKRANTZ: Jaký, drahý princi?
+**ROSENKRANTZ**: Jaký, drahý princi?
 
-HAMLET: Já chci být hercem.
+**HAMLET**: Já chci být hercem.
 
-ROSENKRANTZ: Princi, opravdu?
+**ROSENKRANTZ**: Princi, opravdu?
 
-HAMLET: Je rozhodnuto, Rosenkrantzi. Zítra  
+**HAMLET**: Je rozhodnuto, Rosenkrantzi. Zítra  
 chci odjet s těmi herci do světa.  
 Od města k městu budou hrát ten kus  
 o velkém králi, jenž byl zavražděn;  
@@ -151,44 +152,44 @@ jak bych se vžil do jeho slizké duše,
 až vymačkal bych do poslední kapky  
 veškerou lidskou neřest! Jaká role!
 
-GUILDENSTERN: A jaký kus!
+**GUILDENSTERN**: A jaký kus!
 
-HAMLET: Kus nebyl zcela špatný.
+**HAMLET**: Kus nebyl zcela špatný.
 
-ROSENKRANTZ: Byl výtečný!
+**ROSENKRANTZ**: Byl výtečný!
 
-HAMLET: Měl víc být vypilován  
+**HAMLET**: Měl víc být vypilován  
 a vůbec – Možná že se k té látce vrátím  
 – stála by za to; mne ten zrádný král,  
 ten zrůdný, mrzký, hnusný charakter  
 nesmírně vábí. Milý Rosenkrantzi,  
 já chci psát dramata.
 
-ROSENKRANTZ: Toť skvělé, princi!
+**ROSENKRANTZ**: Toť skvělé, princi!
 
-HAMLET: Psát budu, psát. Já mám už tolik látek  
+**HAMLET**: Psát budu, psát. Já mám už tolik látek  
 – ten padouch byla první. Druhá bude  
 o podlízavých, podlých dvořanech –
 
-ROSENKRANTZ: Ohromné, princi!
+**ROSENKRANTZ**: Ohromné, princi!
 
-HAMLET: Třetí: veselohra  
+**HAMLET**: Třetí: veselohra  
 o starém, zpitomělém komořím. –
 
-GUILDENSTERN: Výtečná látka!
+**GUILDENSTERN**: Výtečná látka!
 
-HAMLET: Čtvrtá bude hra  
+**HAMLET**: Čtvrtá bude hra  
 o jedné dívce.
 
-ROSENKRANTZ: Jaká hra?
+**ROSENKRANTZ**: Jaká hra?
 
-HAMLET: Nu, hra.
+**HAMLET**: Nu, hra.
 
-GUILDENSTERN: Toť vděčná látka.
+**GUILDENSTERN**: Toť vděčná látka.
 
-ROSENKRANTZ: Přímo básnická.
+**ROSENKRANTZ**: Přímo básnická.
 
-HAMLET: A Hamlet bude psát. Na trůně podlec  
+**HAMLET**: A Hamlet bude psát. Na trůně podlec  
 odírat bude lidi bez nože,  
 dvořani budou hřbety ohýbat,  
 a Hamlet bude psát. A války budou,  
@@ -196,26 +197,26 @@ těm slabým bude hůř a silným líp,
 a Hamlet bude psát. Ne aby vstal  
 a něco udělal –
 
-GUILDENSTERN: Co, princi?
+**GUILDENSTERN**: Co, princi?
 
-HAMLET: Což já vím?  
+**HAMLET**: Což já vím?  
 Copak se dělá proti špatné vládě?
 
-ROSENKRANTZ: Nic, princi.
+**ROSENKRANTZ**: Nic, princi.
 
-HAMLET: Zhola nic?
+**HAMLET**: Zhola nic?
 
-GUILDENSTERN: Nu, v dějinách  
+**GUILDENSTERN**: Nu, v dějinách  
 se někdy vyskytují mužové,  
 kteří se v čelo lidu postaví  
 a výmluvností svou či příkladem  
 je strhnou k tomu, aby odbojem  
 zlomili špatnou vládu.
 
-ROSENKRANTZ: Ale to  
+**ROSENKRANTZ**: Ale to  
 se, princi, děje jenom v dějinách.
 
-HAMLET: Tak, tak. Jen v dějinách. A říkáte,  
+**HAMLET**: Tak, tak. Jen v dějinách. A říkáte,  
 že výmluvností mohou strhnout lid?  
 Hoře je němé. Musí někdo přijít,  
 kdo nazve věci pravým jménem: hleďte,  
@@ -230,30 +231,30 @@ což nesáhnete po meči a kyji,
 jste otroci, a proto snášíte  
 žít beze cti –?
 
-GUILDENSTERN: Jste, princi, výmluvný.
+**GUILDENSTERN**: Jste, princi, výmluvný.
 
-HAMLET: Aj, výmluvný? Tož abych vystoupil  
+**HAMLET**: Aj, výmluvný? Tož abych vystoupil  
 a – jako v dějinách – svou výmluvností  
 stvořil hlas lidu?
 
-ROSENKRANTZ: Lid je svému princi  
+**ROSENKRANTZ**: Lid je svému princi  
 zajisté oddán.
 
-HAMLET: A pak v čele všech  
+**HAMLET**: A pak v čele všech  
 skácel trůn shnilý?
 
-GUILDENSTERN: Princi, prosím vás,  
+**GUILDENSTERN**: Princi, prosím vás,  
 to už je politika.
 
-HAMLET: Zvláštní pocit,  
+**HAMLET**: Zvláštní pocit,  
 tak velký úkol vidět před sebou!  
 Dík, pánové.
 
-ROSENKRANTZ: Nebudem rušit, princi.
+**ROSENKRANTZ**: Nebudem rušit, princi.
 
-ROSENKRANTZ a GUILDENSTERN odejdou.
+**ROSENKRANTZ** a **GUILDENSTERN** odejdou.
 
-HAMLET: Být, nebo nebýt, toť ta otázka.  
+**HAMLET**: Být, nebo nebýt, toť ta otázka.  
 A když už být, tož čím? Ó nebesa,  
 být princem, pravda! Vedle trůnu stát  
 s úsměvem na rtech, dvorný, loajální,  
@@ -322,4 +323,4 @@ To, nebo to. Oh, peklo! Co mám volit?
 kdybych byl něčím! – Ano, ale čím?  
 To je ta otázka!
 
-Lidové noviny 28. 10. 1934
+_Lidové noviny 28. 10. 1934_

@@ -1,8 +1,7 @@
 ---
+title: Obrazoborectví
 contentType: prose
 ---
-
-## Obrazoborectví
 
 K Nikeforovi, představenému kláštera svatého Simeona, se dostavil jakýsi Prokopios, známý jako učený znalec a nadšený sběratel umění byzantského. Byl zřejmě vzrušen, když čekal přecházeje po křížové chodbě klášterní. Pěkné sloupy tu mají, řekl si, zřejmě z pátého století. Jediný Nikeforos nám může pomoci. Má vliv u dvora a býval kdysi malířem. A nebyl to špatný malíř, ten staroch. Pamatuju si, že dělával pro císařovnu návrhy na výšivky a maloval pro ni ikony – Proto z něho udělali opata, když se mu ruce tak zkřivily pakostnicí, že už v nich nemohl udržet štětec. A prý má pořád velké slovo u dvora. Kriste Ježíši, tohle je krásná hlavice! Ano, Nikeforos pomůže. Štěstí že jsme si vzpomněli na Nikefora.
 
@@ -118,4 +117,4 @@ Prokopios povstal, zřejmě zdrcen. „Nikefore,“ vyhrkl, „ale také jiné o
 
 Opat Nikeforos odcházel potřásaje zamyšleně hlavou. „Špatná krétská škola,“ mumlal. „Nejvyšší čas, aby se jim to zatrhlo… Ach bože, jaký blud… ten Papanastasias… a Papadianos… To nejsou figury, ale modly, zatracené modly,“ vykřikoval Nikeforos mávaje svýma zmučenýma rukama. „Modly… modly… modly…“
 
-Lidové noviny 12. 4. 1936
+_Lidové noviny 12. 4. 1936_

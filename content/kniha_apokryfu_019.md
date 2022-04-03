@@ -1,8 +1,7 @@
 ---
+title: O pěti chlebích
 contentType: prose
 ---
-
-## O pěti chlebích
 
 … Co proti němu mám? Já vám to povím rovnou, sousede: ne že bych měl něco proti jeho učení. To ne. Jednou jsem poslouchal jeho kázání, a já vám řeknu, málem bych se byl taky stal jeho učedníkem. Tehdy jsem se vrátil domů a povídám svému bratranci sedlářovi, ty, to bys měl slyšet; řeknu ti, je to svým způsobem prorok. Moc krásně mluví, jen co je pravda; zrovna se v člověku srdce obrací; já vám měl tehdy oči plné slz, byl bych nejraději zavřel můj krám a šel za ním, abych ho už nikdy neztratil z očí. Rozdej všechno, co máš, řekl, a následuj mne. Miluj bližního svého, pomáhej chudým a odpouštěj těm, kdo ti ubližují, a takové věci. Já jsem obyčejný pekař, ale když jsem ho poslouchal, tak vám byla ve mně taková divná radost a bolest, já nevím, jak bych to řekl: taková tíha, že bych klekl na zem a plakal, a přitom tak krásně a lehko, jako by ze mne všechno padalo, víte, všechna starost i zlost. Tak já tehdy povídám svému bratranci, ty troubo, mohl by ses stydět; mluvíš samé hamižnosti, co ti je kdo dlužen a že máš platit tyhlety desátky a přirážky a úroky; kdybys raději rozdal chudým všechno, co máš, opustil ženu i děti a šel za ním – –
 
@@ -16,4 +15,4 @@ Koukejte se, sousede: já jsem jednou starý člověk a jsem na světě sám; ne
 
 Rozumí se, podali jsme na něho stížnost k Ananiášovi i k místodržícímu, jako pro rušení živnostenského řádu a pro pobuřování; ale to víte, jak u těch úřadů všechno jde na dlouhé lokte. Vy mě znáte, sousede; jsem mírný člověk a nehledám s nikým rozbroje; ale kdyby on přišel do Jeruzaléma, postavím se na ulici a budu volat: Ukřižujte ho! Ukřižujte ho!
 
-Lidové noviny 28. 3. 1937
+_Lidové noviny 28. 3. 1937_

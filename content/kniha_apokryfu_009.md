@@ -1,8 +1,7 @@
 ---
+title: Thersites
 contentType: prose
 ---
-
-## Thersites
 
 Byla noc a mužové achájští sesedli se blíže k ohňům.
 
@@ -56,4 +55,4 @@ Byla noc a mužové achájští sesedli se blíže k ohňům.
 
 „Dobrou noc,“ děl Thersites srdečně a s libostí se protáhl. „Ale že jsme si dnes pěkně pobesedovali, co?“
 
-Lidové noviny 22. 11. 1931
+_Lidové noviny 22. 11. 1931_

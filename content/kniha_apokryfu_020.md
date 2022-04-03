@@ -1,10 +1,9 @@
 ---
+title: Benchanan
 contentType: prose
 ---
 
-## Benchanan
-
-### Ananiáš
+## Ananiáš
 
 Ptáte se, Benchanane, je-li vinen. To máte tak: já jsem ho neodsoudil na smrt, poslal jsem ho jenom ke Kaifášovi. Ať vám řekne Kaifáš, jakou vinu na něm našel. Já osobně s tím nemám co dělat.
 
@@ -14,7 +13,7 @@ To právě byla jeho chyba, že neměl tu trpělivost. Chtěl spasit svět jedna
 
 Nelamte si s tím hlavu, Benchanane; je to v pořádku. Byl to spravedlivý muž, ale chtěl-li spasit svět, měl na to jít opatrněji a taktičtěji. Cože, byl-li odsouzen právem? To je otázka! Vždyť vám říkám, že to fakticky musil prohrát!
 
-### Kaifáš
+## Kaifáš
 
 Posaďte se, milý Benchanane, jsem vám naprosto k službám. Tak vy byste chtěl vědět, byl-li podle mého mínění ten muž právem ukřižován. To je jednoduchá věc, drahý pane. Předně nám po tom nic není, my jsme ho neodsoudili na smrt, my jsme ho jenom vydali panu římskému prokurátorovi, že? Nač bychom my měli brát na sebe nějakou odpovědnost, ne? Byl-li odsouzen právem, je dobře; stala-li se na něm křivda, tak je to vina Římanů a my jim to jednou můžeme přičíst na vrub. Tak je to, milý Benchanane; na takovou věc se musíme dívat politicky. Já aspoň jako velekněz musím brát zřetel na to, jak se co má politicky hodnotit. Jen to uvažte, kamaráde: Římané nás zbavili osoby, která – jak bych to řekl? – která nám nebyla z určitých důvodů žádoucí; a přitom odpovědnost padá na ně – –
 
@@ -22,4 +21,4 @@ Cože? Říkáte, které jsou ty důvody? Benchanane, Benchanane, tak se mi zdá
 
 A ještě něco. Neměl říkat, že přišel spasit svět a že je Mesiáš a syn Boží nebo co. My – přece víme, že je z Nazaretu – prosím vás, jakýpak spasitel! Jsou ještě lidé, kteří ho pamatují jako tesařova kluka, – a ten člověk by chtěl napravovat svět? Kam by se hrabal! Já jsem dobrý Žid, Benchanane, ale to mně nikdo nenamluví, že by některý našinec mohl spasit svět. To bychom se hrozně přeceňovali, člověče. Neřeknu nic, kdyby to byl Říman nebo Egypťan; ale takový Židáček z Galileje – vždyť je to k smíchu! To ať povídá někomu jinému, že přišel spasit svět, ale nám ne, Benchanane. Nám ne. Nám ne.
 
-Lidové noviny 3. 6. 1934
+_Lidové noviny 3. 6. 1934_

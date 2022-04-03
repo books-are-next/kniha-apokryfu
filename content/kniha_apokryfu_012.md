@@ -1,8 +1,9 @@
 ---
+title: |-
+  Smrt
+  Archimedova
 contentType: prose
 ---
-
-## Smrt Archimedova
 
 Ona totiž ta historie s Archimedem nebyla docela tak, jak se píše; je sice pravda, že byl zabit, když Římané dobyli Syrakus, ale není správné, že do jeho domu vnikl římský voják, aby plenil, a že Archimedes, ponořený do rýsování nějaké geometrické konstrukce, na něho mrzutě zavrčel: „Neruš mi mé kruhy!“ Předně Archimedes nebyl žádný roztržitý profesor, který neví, co se kolem něho děje; naopak byl od nátury pravý voják, který vymýšlel pro Syrakusy válečné stroje na obranu města; za druhé pak ten římský vojáček nebyl žádný opilý kořistník, nýbrž vzdělaný a ctižádostivý štábní setník Lucius, který věděl, s kým má tu čest, a nepřišel plenit, nýbrž vzdal na prahu vojenský salut a řekl: „Buď zdráv, Archimede.“
 
@@ -80,8 +81,8 @@ Archimedes mávl rukou. „Prosím tě, na tom přece nic není. Obyčejné vrha
 
 „Pozor, nesmaž mi mé kruhy! To je způsob, jak se dá vypočítat plocha kruhové výseče.“
 
-\* \* \*
+* * *
 
 Později byla vydána zpráva, že učený Archimedes přišel o život náhodou.
 
-Lidové noviny 17. 4. 1938
+_Lidové noviny 17. 4. 1938_

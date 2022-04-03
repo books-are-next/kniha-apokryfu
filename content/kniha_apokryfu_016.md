@@ -1,8 +1,9 @@
 ---
+title: |-
+  Svatá
+  noc
 contentType: prose
 ---
-
-## Svatá noc
 
 „Já se ti divím,“ křičela paní Dinah. „Kdyby to byli pořádní lidé, šli by k starostovi, a ne takhle žebrotou! Proč si je nevzali do domu Šimonovic? Proč se jich máme ujímat ausgerechnet my? Copak jsme něco horšího než Šimonovic? Já vím, Šimonova žena by si takovou holotu do domu nepustila! Já se ti divím, člověče, že se tak zahazuješ s já nevím kým!“
 
@@ -24,7 +25,7 @@ Ale Isachar tváří ke zdi dělal, jako by spal.
 
 A bylo ticho, jen starý Isachar pozorně členil tmu svým chrupáním.
 
-\* \* \*
+* * *
 
 K půlnoci ho vzbudilo z dřímoty potlačované ženské zasténání. I safra, lekl se, to bude něco vedle v chlívku! Jen aby to nevzbudilo Dinu… To by zas bylo řečí!
 
@@ -44,4 +45,4 @@ Prosím tě, co tak běháš, chtěl vyhrknout, ale ani se k tomu nedostal. „C
 
 Starý Isachar se vyštrachal na dvorek. Před chlívkem viděl bezradně trčet ramenatou mužskou postavu, i zamířil k ní. „Jojo,“ bručel chlácholivě. „Vyndala tě, že? To víš, Josef, ty ženské…“ A aby zamluvil jejich mužskou bezmoc, ukazoval honem: „Koukej, hvězda! Viděls už někdy takovou hvězdu?“
 
-Lidové noviny 25. 12. 1930
+_Lidové noviny 25. 12. 1930_

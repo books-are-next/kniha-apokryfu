@@ -1,8 +1,7 @@
 ---
+title: Napoleon
 contentType: prose
 ---
-
-## Napoleon
 
 Mlle Claire (od Comédie française) ani nedutala; věděla, že se císař občas takto zamyslí a je nerad vyrušován. Ostatně, mezi námi, o čem s ním mluvit? Co chcete, je to přece jen císař; člověk se tu necítí doma, není-liž pravda? (Je to přese vše cizinec, dumá Mlle Claire, pas très Parisien.) (Nicméně takto u krbu má dost hezkou tvář.) (Kdyby ovšem nebyl tak zavalitý.) (Là là, nemá to ani žádný krk, c’est drôle.) (Ale víte, mohl by být poněkud zdvořilejší!)
 
@@ -50,4 +49,4 @@ Byl náhle velmi vášnivý a bezohledný.
 
 „Ah, Sire,“ vydechla Mlle Claire, „comme vous êtes grand![\[36\]](./resources/undefined)“
 
-Lidové noviny 1. 1. 1933
+_Lidové noviny 1. 1. 1933_

@@ -1,8 +1,7 @@
 ---
+title: Prometheův trest
 contentType: prose
 ---
-
-## Prometheův trest
 
 Pochrchlávaje a hekaje po dlouhém průvodním řízení odebral se mimořádný senát k poradě, jež se konala ve stínu posvátné olivy.
 
@@ -32,10 +31,10 @@ Pochrchlávaje a hekaje po dlouhém průvodním řízení odebral se mimořádn�
 
 „To by šlo,“ děl uspokojeně Hypometheus. „Pánové, to by byl jednou exemplární trest na takové – ehm, zločinné výstřelky, že ano? Má někdo nějakou námitku? Tak bychom byli hotovi.“
 
-\* \* \*
+* * *
 
 „A proč jste, tati, toho Promethea odsoudili k smrti?“ ptal se Hypomethea při večeři jeho syn Epimetheus.
 
 „Tomu ty nerozumíš,“ bručel Hypometheus ohryzuje přitom skopovou kýtku. „Panečku, taková pečená kýta přece jen chutná líp než syrová; tak vida, k něčemu je ten oheň přece jen dobrý. – To byly důvody veřejného zájmu, víš? Kampak by to vedlo, kdyby kdekdo směl beztrestně přijít s něčím velikým, no ne? Ale něco tomu masu ještě chybí – – Už to mám!“ zvolal radostně. „Pečená kýta by se měla posolit a potřít česnekem! To je to pravé! Hochu, to přece je objev! Vidíš, na to by takový Prometheus nepřišel!“
 
-Lidové noviny 5. 6. 1932
+_Lidové noviny 5. 6. 1932_

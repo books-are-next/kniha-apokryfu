@@ -1,8 +1,7 @@
 ---
+title: Ofir
 contentType: prose
 ---
-
-## Ofir
 
 Lidé na náměstí svatého Marka se stěží ohlédli, když pochopové vedli toho staříka k dóžeti. Byl velmi sešlý a špinavý, řeklo by se, že je to nějaký zlodějíček z přístavu.
 
@@ -150,4 +149,4 @@ Podestà vicegerente tázavě vzhlédl.
 
 „Jako obyčejně, jako obyčejně,“ zívl dóže. „Nechte ho sedět, až bude modrý, a pak ho prodejte na galeje. Škoda,“ bručel, „že je to podvodník; ledacos z toho, co řekl, mělo jakési jádro… Asi to slyšel od Arabů.“
 
-Lidové noviny 13. 11. 1932
+_Lidové noviny 13. 11. 1932_

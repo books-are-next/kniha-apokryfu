@@ -1,8 +1,9 @@
 ---
+title: |-
+  Římské
+  legie
 contentType: prose
 ---
-
-## Římské legie
 
 Čtyři z Caesarových veteránů, kteří prodělavše galské i britské tažení, se vrátili pokryti slávou a s největším triumfem, jaký kdy svět viděl, tedy tito čtyři hrdinové, a sice Bullio, bývalý desátník, Lucius zvaný pro svou hubenost Macer, Sartor zvaný Hilla, veterinář druhé legie, a konečně Strobus z Gaety se sešli ve vinárně sicilského Řeka a velkého taškáře Onokrata, aby společně vzpomínali na velké a památné vojenské události, jichž byli svědky. Protože bylo trochu horko, postavil jim Onokrates stůl na ulici a tam ti čtyři vojáci popíjeli hlasitě hovoříce. Kdo by se divil, že záhy se kolem nich nakupili lidé z té ulice, řemeslníci, oslaři, děti a ženy s nemluvňaty na rukou, aby naslouchali jejich slovům? Vězte, že slavné činy velikého Caesara tehdy ještě vzbuzovaly zájem všech římských občanů.
 
@@ -80,4 +81,4 @@ contentType: prose
 
 „Vždyť to tak nebylo,“ zabručel Bullio a usnul.
 
-Lidové noviny 22. 4. 1928
+_Lidové noviny 22. 4. 1928_

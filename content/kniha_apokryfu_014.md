@@ -1,8 +1,7 @@
 ---
+title: O desíti spravedlivých
 contentType: prose
 ---
-
-## O desíti spravedlivých
 
 I řekl Hospodin: Protože rozmnožen jest křik Sodomských a Gomorských a hřích jejich že obtížen je náramně:
 
@@ -26,7 +25,7 @@ A opět řekl: Aj, nyní počal jsem mluviti k Pánu svému: Snad se nalezne tam
 
 I odšel Hospodin, když dokonal řeč k Abrahámovi; Abrahám pak navrátil se k místu svému.
 
-Genesis 18, 20–33
+_Genesis 18, 20–33_
 
 A když se navrátil k místu svému, zavolal Abrahám svou ženu Sáru a řekl jí: „Poslyš, mám to z nejlepšího pramene, ale nikdo to nesmí vědět. Hospodin se rozhodl zahubiti Sodomské a Gomorské pro jejich hříchy. On sám mi to řekl.“
 
@@ -104,4 +103,4 @@ Sára pak řekla: „Jdi, Abraháme, jdi ještě jednou k Hospodinu, padni na ko
 
 A řekni mu: Smiluj se nad hříšným tím lidem a poshověj jim ještě. Měj slitování, Pane, a nech je žít. Avšak od nás, Hospodine, od nás lidí nežádej, abychom ti navrhli deset spravedlivých z veškerého lidu tvého.“
 
-Lidové noviny 13. 9. 1931
+_Lidové noviny 13. 9. 1931_

@@ -1,8 +1,7 @@
 ---
+title: Attila
 contentType: prose
 ---
-
-## Attila
 
 Ráno přinesl posel z kraje lesa zprávu, že na jihovýchodě plála v noci ohnivá záplava. Toho dne zase sychravě mžilo, mokrá polena nechtěla ani hořet; tři lidé z houfce ukrytého v rokli zemřeli na krvavou stolici. Protože už nebylo co jíst, vypravili se dva muži k pastýřům v zálesí; vrátili se pozdě odpoledne promoklí a k smrti vysílení; stěží z nich dostali, že je zle: ovce kapají a krávy se nadýmají; pastýři se na ně vrhli s kyji a noži, když jeden z nich chtěl odvést svou vlastní jalůvku, kterou jim svěřil před útěkem do lesů.
 
@@ -96,10 +95,10 @@ Cínař se dusil spravedlivým hněvem. „Tak vidíte! Říká se Attila, a to 
 
 Počaly se sbíhat i ženy.
 
-\* \* \*
+* * *
 
 Té noci vzplanula záplava na severozápadě. Řídce přeprchávalo. Pět lidí z houfce zemřelo úplavicí a kašlem.
 
 Mladíka pověsili po delším mučení.
 
-Lidové noviny 26. 6. 1932
+_Lidové noviny 26. 6. 1932_

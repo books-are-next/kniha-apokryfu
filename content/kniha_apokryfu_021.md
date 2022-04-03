@@ -1,8 +1,9 @@
 ---
+title: |-
+  Pilátův
+  večer
 contentType: prose
 ---
-
-## Pilátův večer
 
 Toho dne večeřel Pilát se svým pobočníkem: byl to mladý poručík Suza, rodem z Kyrenaiky. Suza ani nepozoroval, že je místodržitel nějak zamlklý, a vesele žvanil rozjařen tím, že poprvé v životě zažil zemětřesení.
 
@@ -34,4 +35,4 @@ Pilát pokynul. „Jednou jsem už viděl zemětřesení,“ řekl. „To bylo v
 
 Pilát umlkl a roztržitě smetal ze stolu drobečky. „Nu, nepřišli,“ zabručel. „Ach, Suzo, jaká marná věc je vládnout!“
 
-Lidové noviny 27. 3. 1932
+_Lidové noviny 27. 3. 1932_

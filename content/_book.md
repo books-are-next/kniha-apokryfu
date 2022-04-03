@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Kniha apokryfů
   identifier: c18ce581-65ea-4126-a2a8-1b25d072156b
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-10-27T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - kniha_apokryfu_001.html
   - kniha_apokryfu_002.html
@@ -52,6 +56,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,8 +1,7 @@
 ---
+title: O úpadku doby
 contentType: prose
 ---
-
-## O úpadku doby
 
 Před jeskyní bylo ticho. Mužové odešli hned zrána mávajíce oštěpy směrem k Blansku nebo k Rájci, kde bylo vystopováno stádo sobů; ženy zatím po lese sbíraly bobule klikvy a jen časem bylo slyšet jejich ječivý pokřik a repetění; děti se nejspíš čabraly dole v potoce – ostatně kdo by se těch harantů dohlídal, holoty darebné a zvlčilé. A tož starý pračlověk Janeček klímal v tom vzácném tichu na mírném slunci říjnovém; po pravdě řečeno chrápal a v nose mu hvízdalo, ale dělal, jako by nespal, nýbrž jako by střežil jeskyni kmene a panoval nad ní, jakož se sluší na starého náčelníka.
 
@@ -50,4 +49,4 @@ Paní Janečková pokrčila pohoršeně rameny. „Kdopak ví. Asi někdo z mlad
 
 „– – No to už dál nejde,“ vydralo se z dědy Janečka. „To přece je zvrhlost! Vidíš, to mají z toho, že řežou všechno možné z kostí! Nám taková nestydatost jakživa na mysl nepřišla, protože z pazourku by to ani nešlo udělat – Tam to vede! To jsou ty jejich vynálezy! Pořád budou něco vymýšlet, pořád budou něco nového zavádět, až všechno zhuntují a zničí – A já říkám,“ zvolal pračlověk Janeček v prorockém osvícení, „že dlouho to už trvat nebude!“
 
-Lidové noviny 24. 12. 1931
+_Lidové noviny 24. 12. 1931_
