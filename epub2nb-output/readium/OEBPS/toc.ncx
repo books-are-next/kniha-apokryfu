@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="c18ce581-65ea-4126-a2a8-1b25d072156b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kniha apokryfů</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Prometheův trest</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>O úpadku doby</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Jako za starých časů</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Thersites</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Agathon čili o moudrosti</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Alexandr Veliký</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Smrt Archimedova</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Římské legie</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>O desíti spravedlivých</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Pseudolot čili o vlastenectví</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Svatá noc</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Marta a Maria</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Lazar</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>O pěti chlebích</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Benchanan</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_020.html"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Ananiáš</text>
+        </navLabel>
+        <content src="Text/kniha_apokryfu_020.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Kaifáš</text>
+        </navLabel>
+        <content src="Text/kniha_apokryfu_020.html#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Pilátův večer</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Pilátovo krédo</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Císař Dioklecián</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Attila</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Obrazoborectví</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Bratr František</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Ofir</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Goneril, dcera Learova</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Hamlet, princ dánský</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Zpověď Dona Juana</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Romeo a Julie</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Pan Hynek Ráb z Kufštejna</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Napoleon</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/kniha_apokryfu_037.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

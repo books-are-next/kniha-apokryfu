@@ -1,0 +1,414 @@
+.calibre {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    letter-spacing: -0.1pt
+    }
+.calibre4 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre5 {
+    color: windowtext;
+    text-decoration: none
+    }
+.calibre6 {
+    height: 31px;
+    width: 85px
+    }
+.calibre7 {
+    height: 31px;
+    width: 87px
+    }
+.calibre8 {
+    height: 82px;
+    width: 82px
+    }
+.calibre9 {
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 115%
+    }
+.calibre10 {
+    color: windowtext;
+    display: none;
+    text-decoration: none
+    }
+.calibre11 {
+    font-size: 0.75em;
+    line-height: 110%
+    }
+.calibre12 {
+    font-size: 1em;
+    line-height: 115%
+    }
+.calibre13 {
+    font-style: italic
+    }
+.calibre14 {
+    letter-spacing: -0.15pt
+    }
+.calibre15 {
+    display: block
+    }
+.calibre16 {
+    letter-spacing: 0.2pt
+    }
+.calibre17 {
+    letter-spacing: -0.2pt
+    }
+.calibre18 {
+    background: white
+    }
+.calibre19 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    margin: 0.5em auto;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px
+    }
+.calibre20 {
+    line-height: 110%
+    }
+.calibre21 {
+    color: #666;
+    line-height: 110%
+    }
+.mlpdopis {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0 14.2pt 0.0001pt
+    }
+.mlpdopisbez1radku {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 14.2pt 0.0001pt
+    }
+.mlpdopispodpis {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: right;
+    margin: 6pt 14.2pt 12pt 0
+    }
+.mlpdopispodpisi {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 110%;
+    text-align: right;
+    margin: 6pt 14.2pt 12pt 0
+    }
+.mlphvezdicky {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 6pt 0
+    }
+.mlplicencehypertext {
+    color: blue;
+    font-family: "Cambria", serif;
+    font-variant: normal;
+    text-decoration: underline none underline;
+    text-transform: none;
+    vertical-align: baseline
+    }
+.mlplicenceobrazek {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    text-align: center;
+    margin: 6pt 0 4.5pt
+    }
+.mlplicencetext {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlpobrazky {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 12pt 0 0.0001pt
+    }
+.mlpobsah {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin: 12pt 0
+    }
+.mlposoby {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-indent: -35.45pt;
+    margin: 6pt 0 6pt 35.45pt
+    }
+.mlptext {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0 0 0.0001pt
+    }
+.mlptext1 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    text-indent: 14.2pt;
+    margin: 0 0 12pt
+    }
+.mlptextbez1radku {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku1 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku2 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 12pt 0 0.0001pt
+    }
+.mlptextbez1radkub {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radkui {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 6pt
+    }
+.mlptextcapekseznam {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 6pt
+    }
+.mlptextdoprava {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    text-align: right;
+    margin: 0 0 0.0001pt
+    }
+.mlptextdopravai {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 110%;
+    text-align: right;
+    text-indent: 14.2pt;
+    margin: 0 0 0.0001pt
+    }
+.mlptextuprostredi-b {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlptirazautoranazev {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0 0 0.0001pt
+    }
+.mlptitulkaautor {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.4em;
+    line-height: 1;
+    text-align: center;
+    margin: 18pt 0 0.0001pt
+    }
+.mlptitulkanazev {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 2em;
+    line-height: 110%;
+    text-align: center;
+    margin: 120pt 0 0.0001pt
+    }
+.mlpuroven2kapitola {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    margin: 18pt 0 12pt
+    }
+.mlpuroven3nadpis {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.4em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1;
+    page-break-after: avoid;
+    margin: 12pt 0 6pt
+    }
+.mlpznakkurziva11b {
+    font-family: "Cambria", serif;
+    font-style: italic
+    }
+.mlpznaktucne11b {
+    font-family: "Cambria", serif;
+    font-weight: bold
+    }
+.msofootnotereference {
+    color: blue;
+    font-family: "Cambria", serif;
+    text-decoration: underline;
+    vertical-align: super
+    }
+.msofootnotetext {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.msonormal {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt
+    }
+.msotoc {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt 11.05pt
+    }
+.msotoc1 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1em;
+    line-height: 115%;
+    margin: 0 0 0.0001pt 22.1pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.wordsection1 {
+    display: block;
+    page: WordSection2
+    }
+.wordsection2 {
+    display: block;
+    page: WordSection3
+    }
+.wordsection3 {
+    display: block;
+    page: WordSection4
+    }
+.wordsection4 {
+    display: block;
+    page: WordSection5
+    }
+.wordsection5 {
+    display: block;
+    page: WordSection6
+    }
+.wordsection6 {
+    display: block;
+    page: WordSection7
+    }
+.wordsection7 {
+    display: block;
+    page: WordSection8
+    }
+.wordsection8 {
+    display: block;
+    page: WordSection9
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    font-family: "Cambria", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline
+    }
