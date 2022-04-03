@@ -1,1 +1,849 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Kniha apokryfů",
+      "identifier": "c18ce581-65ea-4126-a2a8-1b25d072156b",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-10-27T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nmlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis\nmlpuroven3nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "mlphvezdicky",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nmlpdopispodpisi\nmlptextdopravai\nmlptextbez1radkui\nmlpznakkurziva11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nmlptextbez1radkub\nmlptirazautoranazev\nmlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "kniha_apokryfu_001.md",
+            "xhtml": "kniha_apokryfu_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_002.md",
+            "xhtml": "kniha_apokryfu_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_003.md",
+            "xhtml": "kniha_apokryfu_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_004.md",
+            "xhtml": "kniha_apokryfu_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_005.md",
+            "xhtml": "kniha_apokryfu_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_006.md",
+            "xhtml": "kniha_apokryfu_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_007.md",
+            "xhtml": "kniha_apokryfu_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_008.md",
+            "xhtml": "kniha_apokryfu_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_009.md",
+            "xhtml": "kniha_apokryfu_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_010.md",
+            "xhtml": "kniha_apokryfu_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_011.md",
+            "xhtml": "kniha_apokryfu_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_012.md",
+            "xhtml": "kniha_apokryfu_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_013.md",
+            "xhtml": "kniha_apokryfu_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_014.md",
+            "xhtml": "kniha_apokryfu_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_015.md",
+            "xhtml": "kniha_apokryfu_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_016.md",
+            "xhtml": "kniha_apokryfu_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_017.md",
+            "xhtml": "kniha_apokryfu_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_018.md",
+            "xhtml": "kniha_apokryfu_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_019.md",
+            "xhtml": "kniha_apokryfu_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_020.md",
+            "xhtml": "kniha_apokryfu_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_021.md",
+            "xhtml": "kniha_apokryfu_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_022.md",
+            "xhtml": "kniha_apokryfu_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_023.md",
+            "xhtml": "kniha_apokryfu_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_024.md",
+            "xhtml": "kniha_apokryfu_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_025.md",
+            "xhtml": "kniha_apokryfu_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_026.md",
+            "xhtml": "kniha_apokryfu_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_027.md",
+            "xhtml": "kniha_apokryfu_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_028.md",
+            "xhtml": "kniha_apokryfu_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_029.md",
+            "xhtml": "kniha_apokryfu_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_030.md",
+            "xhtml": "kniha_apokryfu_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_031.md",
+            "xhtml": "kniha_apokryfu_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_032.md",
+            "xhtml": "kniha_apokryfu_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_033.md",
+            "xhtml": "kniha_apokryfu_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_034.md",
+            "xhtml": "kniha_apokryfu_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_035.md",
+            "xhtml": "kniha_apokryfu_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_036.md",
+            "xhtml": "kniha_apokryfu_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_037.md",
+            "xhtml": "kniha_apokryfu_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kniha_apokryfu_038.md",
+            "xhtml": "kniha_apokryfu_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Kniha apokryfů",
+      "identifier": "c18ce581-65ea-4126-a2a8-1b25d072156b",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-10-27T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_001.md",
+        "xhtml": "kniha_apokryfu_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_002.md",
+        "xhtml": "kniha_apokryfu_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_003.md",
+        "xhtml": "kniha_apokryfu_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_004.md",
+        "xhtml": "kniha_apokryfu_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_005.md",
+        "xhtml": "kniha_apokryfu_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_006.md",
+        "xhtml": "kniha_apokryfu_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_007.md",
+        "xhtml": "kniha_apokryfu_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_008.md",
+        "xhtml": "kniha_apokryfu_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_009.md",
+        "xhtml": "kniha_apokryfu_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_010.md",
+        "xhtml": "kniha_apokryfu_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_011.md",
+        "xhtml": "kniha_apokryfu_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_012.md",
+        "xhtml": "kniha_apokryfu_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_013.md",
+        "xhtml": "kniha_apokryfu_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_014.md",
+        "xhtml": "kniha_apokryfu_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_015.md",
+        "xhtml": "kniha_apokryfu_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_016.md",
+        "xhtml": "kniha_apokryfu_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_017.md",
+        "xhtml": "kniha_apokryfu_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_018.md",
+        "xhtml": "kniha_apokryfu_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_019.md",
+        "xhtml": "kniha_apokryfu_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_020.md",
+        "xhtml": "kniha_apokryfu_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_021.md",
+        "xhtml": "kniha_apokryfu_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_022.md",
+        "xhtml": "kniha_apokryfu_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_023.md",
+        "xhtml": "kniha_apokryfu_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_024.md",
+        "xhtml": "kniha_apokryfu_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_025.md",
+        "xhtml": "kniha_apokryfu_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_026.md",
+        "xhtml": "kniha_apokryfu_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_027.md",
+        "xhtml": "kniha_apokryfu_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_028.md",
+        "xhtml": "kniha_apokryfu_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_029.md",
+        "xhtml": "kniha_apokryfu_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_030.md",
+        "xhtml": "kniha_apokryfu_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_031.md",
+        "xhtml": "kniha_apokryfu_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_032.md",
+        "xhtml": "kniha_apokryfu_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_033.md",
+        "xhtml": "kniha_apokryfu_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_034.md",
+        "xhtml": "kniha_apokryfu_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_035.md",
+        "xhtml": "kniha_apokryfu_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_036.md",
+        "xhtml": "kniha_apokryfu_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_037.md",
+        "xhtml": "kniha_apokryfu_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kniha_apokryfu_038.md",
+        "xhtml": "kniha_apokryfu_038.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre20",
+      "calibre21",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopis",
+      "mlpdopisbez1radku",
+      "mlpdopispodpis",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlposoby",
+      "mlptext",
+      "mlptext1",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextbez1radkui",
+      "mlptextcapekseznam",
+      "mlptextdopravai",
+      "mlptextuprostredi-b",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpuroven3nadpis",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kniha-apokryfu"
+    },
+    "generatedAt": 1649012787464
+  }
+}
