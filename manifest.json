@@ -2,38 +2,18 @@
   "author": "Karel Čapek",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "capek-kniha-apokryfu-e3286a3",
+  "identifier": "capek-kniha-apokryfu-e04c67c",
   "languagecode": "cs",
   "modified": "2017-10-27T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Kniha apokryfů",
-  "revision": "e3286a3",
+  "revision": "e04c67c",
   "generatedAt": {
-    "date": "Sun Apr 03 2022 19:21:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649013711910
+    "date": "Sun Apr 03 2022 19:28:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649014081364
   },
   "documents": [
-    {
-      "title": "Kniha apokryfů",
-      "file": "kniha_apokryfu_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "kniha_apokryfu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Kniha apokryfů",
       "file": "kniha_apokryfu_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "kniha_apokryfu_001.html",
-      "next": "kniha_apokryfu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kniha apokryfů",
-      "file": "kniha_apokryfu_003.html",
-      "words": 4,
-      "chars": 25,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "kniha_apokryfu_002.html",
-      "next": "kniha_apokryfu_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Kniha apokryfů",
-      "file": "kniha_apokryfu_004.html",
-      "words": 81,
-      "chars": 546,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "kniha_apokryfu_003.html",
+      "order": 0,
+      "prev": null,
       "next": "kniha_apokryfu_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 937,
       "ideas": 5,
       "role": "chapter",
-      "order": 4,
-      "prev": "kniha_apokryfu_004.html",
+      "order": 1,
+      "prev": "kniha_apokryfu_002.html",
       "next": "kniha_apokryfu_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 7359,
       "ideas": 18,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "kniha_apokryfu_005.html",
       "next": "kniha_apokryfu_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 7933,
       "ideas": 25,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "kniha_apokryfu_006.html",
       "next": "kniha_apokryfu_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 3352,
       "ideas": 27,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "kniha_apokryfu_007.html",
       "next": "kniha_apokryfu_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 8372,
       "ideas": 28,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "kniha_apokryfu_008.html",
       "next": "kniha_apokryfu_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 5626,
       "ideas": 20,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "kniha_apokryfu_009.html",
       "next": "kniha_apokryfu_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 7938,
       "ideas": 15,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "kniha_apokryfu_010.html",
       "next": "kniha_apokryfu_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 4218,
       "ideas": 42,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "kniha_apokryfu_011.html",
       "next": "kniha_apokryfu_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 5777,
       "ideas": 41,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "kniha_apokryfu_012.html",
       "next": "kniha_apokryfu_014.html",
       "toc": [
@@ -281,7 +221,7 @@
       "chars": 7080,
       "ideas": 52,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "kniha_apokryfu_013.html",
       "next": "kniha_apokryfu_015.html",
       "toc": [
@@ -301,7 +241,7 @@
       "chars": 7388,
       "ideas": 45,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "kniha_apokryfu_014.html",
       "next": "kniha_apokryfu_016.html",
       "toc": [
@@ -321,7 +261,7 @@
       "chars": 4129,
       "ideas": 22,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "kniha_apokryfu_015.html",
       "next": "kniha_apokryfu_017.html",
       "toc": [
@@ -341,7 +281,7 @@
       "chars": 8864,
       "ideas": 38,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "kniha_apokryfu_016.html",
       "next": "kniha_apokryfu_018.html",
       "toc": [
@@ -361,7 +301,7 @@
       "chars": 4640,
       "ideas": 30,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "kniha_apokryfu_017.html",
       "next": "kniha_apokryfu_019.html",
       "toc": [
@@ -381,7 +321,7 @@
       "chars": 5801,
       "ideas": 8,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "kniha_apokryfu_018.html",
       "next": "kniha_apokryfu_020.html",
       "toc": [
@@ -401,7 +341,7 @@
       "chars": 5681,
       "ideas": 11,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "kniha_apokryfu_019.html",
       "next": "kniha_apokryfu_021.html",
       "toc": [
@@ -436,7 +376,7 @@
       "chars": 4221,
       "ideas": 18,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "kniha_apokryfu_020.html",
       "next": "kniha_apokryfu_022.html",
       "toc": [
@@ -456,7 +396,7 @@
       "chars": 5641,
       "ideas": 21,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "kniha_apokryfu_021.html",
       "next": "kniha_apokryfu_023.html",
       "toc": [
@@ -476,7 +416,7 @@
       "chars": 7348,
       "ideas": 29,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "kniha_apokryfu_022.html",
       "next": "kniha_apokryfu_024.html",
       "toc": [
@@ -496,7 +436,7 @@
       "chars": 7334,
       "ideas": 50,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "kniha_apokryfu_023.html",
       "next": "kniha_apokryfu_025.html",
       "toc": [
@@ -516,7 +456,7 @@
       "chars": 11446,
       "ideas": 59,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "kniha_apokryfu_024.html",
       "next": "kniha_apokryfu_026.html",
       "toc": [
@@ -536,7 +476,7 @@
       "chars": 5370,
       "ideas": 30,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "kniha_apokryfu_025.html",
       "next": "kniha_apokryfu_027.html",
       "toc": [
@@ -556,7 +496,7 @@
       "chars": 8999,
       "ideas": 75,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "kniha_apokryfu_026.html",
       "next": "kniha_apokryfu_028.html",
       "toc": [
@@ -576,7 +516,7 @@
       "chars": 4867,
       "ideas": 10,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "kniha_apokryfu_027.html",
       "next": "kniha_apokryfu_029.html",
       "toc": [
@@ -596,7 +536,7 @@
       "chars": 7396,
       "ideas": 241,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "kniha_apokryfu_028.html",
       "next": "kniha_apokryfu_030.html",
       "toc": [
@@ -616,7 +556,7 @@
       "chars": 9427,
       "ideas": 43,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "kniha_apokryfu_029.html",
       "next": "kniha_apokryfu_031.html",
       "toc": [
@@ -636,7 +576,7 @@
       "chars": 8355,
       "ideas": 41,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "kniha_apokryfu_030.html",
       "next": "kniha_apokryfu_032.html",
       "toc": [
@@ -656,7 +596,7 @@
       "chars": 6961,
       "ideas": 31,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "kniha_apokryfu_031.html",
       "next": "kniha_apokryfu_033.html",
       "toc": [
@@ -676,7 +616,7 @@
       "chars": 5824,
       "ideas": 25,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "kniha_apokryfu_032.html",
       "next": "kniha_apokryfu_034.html",
       "toc": [
@@ -696,7 +636,7 @@
       "chars": 615,
       "ideas": 5,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "kniha_apokryfu_033.html",
       "next": "kniha_apokryfu_035.html",
       "toc": [
@@ -716,7 +656,7 @@
       "chars": 2024,
       "ideas": 33,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "kniha_apokryfu_034.html",
       "next": "kniha_apokryfu_036.html",
       "toc": [
@@ -736,7 +676,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "kniha_apokryfu_035.html",
       "next": "kniha_apokryfu_037.html",
       "toc": [
@@ -756,9 +696,9 @@
       "chars": 2136,
       "ideas": 37,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "kniha_apokryfu_036.html",
-      "next": "kniha_apokryfu_038.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -770,20 +710,20 @@
       ]
     },
     {
-      "title": "Kniha apokryfů",
-      "file": "kniha_apokryfu_038.html",
-      "words": 48,
-      "chars": 317,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 37,
+      "title": "Tiráž • Kniha apokryfů",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 893,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "kniha_apokryfu_037.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -797,9 +737,9 @@
       "ideas": 1269
     },
     "chapters": {
-      "words": 33674,
-      "chars": 195102,
-      "ideas": 1264
+      "words": 33541,
+      "chars": 194214,
+      "ideas": 1242
     }
   }
 }
