@@ -1,7 +1,5 @@
 ---
-title: |-
-  Římské
-  legie
+title: Římské legie
 contentType: prose
 ---
 

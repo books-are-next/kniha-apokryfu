@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pseudolot
-  čili o vlastenectví
+title: Pseudolot čili o vlastenectví
 contentType: prose
 ---
 

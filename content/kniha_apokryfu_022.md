@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pilátovo
-  krédo
+title: Pilátovo krédo
 contentType: prose
 ---
 

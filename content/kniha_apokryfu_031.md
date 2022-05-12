@@ -1,7 +1,5 @@
 ---
-title: |-
-  Romeo
-  a Julie
+title: Romeo a Julie
 contentType: prose
 ---
 

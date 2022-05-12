@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pilátův
-  večer
+title: Pilátův večer
 contentType: prose
 ---
 

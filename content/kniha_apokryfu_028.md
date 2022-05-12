@@ -1,7 +1,5 @@
 ---
-title: |-
-  Goneril,
-  dcera Learova
+title: Goneril, dcera Learova
 contentType: prose
 ---
 

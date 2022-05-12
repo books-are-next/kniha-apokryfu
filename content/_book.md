@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - kniha_apokryfu_002.html
+  - promo.html
   - kniha_apokryfu_005.html
   - kniha_apokryfu_006.html
   - kniha_apokryfu_007.html

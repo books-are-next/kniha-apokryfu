@@ -1,7 +1,5 @@
 ---
-title: |-
-  Hamlet,
-  princ dánský
+title: Hamlet, princ dánský
 contentType: prose
 ---
 

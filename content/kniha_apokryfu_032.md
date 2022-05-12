@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pan
-  Hynek Ráb z Kufštejna
+title: Pan Hynek Ráb z Kufštejna
 contentType: prose
 ---
 

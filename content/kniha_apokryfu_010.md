@@ -1,7 +1,5 @@
 ---
-title: |-
-  Agathon
-  čili o moudrosti
+title: Agathon čili o moudrosti
 contentType: prose
 ---
 
