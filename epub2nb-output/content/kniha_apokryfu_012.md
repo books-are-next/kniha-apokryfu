@@ -1,7 +1,5 @@
 ---
-title: |-
-  Smrt
-  Archimedova
+title: Smrt Archimedova
 contentType: prose
 ---
 

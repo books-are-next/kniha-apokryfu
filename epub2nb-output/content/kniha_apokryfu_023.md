@@ -1,7 +1,5 @@
 ---
-title: |-
-  Císař
-  Dioklecián
+title: Císař Dioklecián
 contentType: prose
 ---
 

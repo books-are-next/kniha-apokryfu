@@ -1,7 +1,5 @@
 ---
-title: |-
-  Zpověď
-  Dona Juana
+title: Zpověď Dona Juana
 contentType: prose
 ---
 

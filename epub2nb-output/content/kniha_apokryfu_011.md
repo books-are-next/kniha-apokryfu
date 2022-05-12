@@ -1,7 +1,5 @@
 ---
-title: |-
-  Alexandr
-  Veliký
+title: Alexandr Veliký
 contentType: prose
 ---
 

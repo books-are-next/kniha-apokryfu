@@ -1,7 +1,5 @@
 ---
-title: |-
-  Marta
-  a Maria
+title: Marta a Maria
 contentType: prose
 ---
 

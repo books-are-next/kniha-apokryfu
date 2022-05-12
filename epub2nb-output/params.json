@@ -52,7 +52,7 @@
             "filename": "kniha_apokryfu_002.md",
             "xhtml": "kniha_apokryfu_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -581,7 +581,7 @@
         "xhtml": "kniha_apokryfu_007.html"
       },
       {
-        "titleSuggest": "Jako\nza starých časů",
+        "titleSuggest": "Jako za starých časů",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_008.md",
         "xhtml": "kniha_apokryfu_008.html"
@@ -593,25 +593,25 @@
         "xhtml": "kniha_apokryfu_009.html"
       },
       {
-        "titleSuggest": "Agathon\nčili o moudrosti",
+        "titleSuggest": "Agathon čili o moudrosti",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_010.md",
         "xhtml": "kniha_apokryfu_010.html"
       },
       {
-        "titleSuggest": "Alexandr\nVeliký",
+        "titleSuggest": "Alexandr Veliký",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_011.md",
         "xhtml": "kniha_apokryfu_011.html"
       },
       {
-        "titleSuggest": "Smrt\nArchimedova",
+        "titleSuggest": "Smrt Archimedova",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_012.md",
         "xhtml": "kniha_apokryfu_012.html"
       },
       {
-        "titleSuggest": "Římské\nlegie",
+        "titleSuggest": "Římské legie",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_013.md",
         "xhtml": "kniha_apokryfu_013.html"
@@ -623,19 +623,19 @@
         "xhtml": "kniha_apokryfu_014.html"
       },
       {
-        "titleSuggest": "Pseudolot\nčili o vlastenectví",
+        "titleSuggest": "Pseudolot čili o vlastenectví",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_015.md",
         "xhtml": "kniha_apokryfu_015.html"
       },
       {
-        "titleSuggest": "Svatá\nnoc",
+        "titleSuggest": "Svatá noc",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_016.md",
         "xhtml": "kniha_apokryfu_016.html"
       },
       {
-        "titleSuggest": "Marta\na Maria",
+        "titleSuggest": "Marta a Maria",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_017.md",
         "xhtml": "kniha_apokryfu_017.html"
@@ -659,19 +659,19 @@
         "xhtml": "kniha_apokryfu_020.html"
       },
       {
-        "titleSuggest": "Pilátův\nvečer",
+        "titleSuggest": "Pilátův večer",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_021.md",
         "xhtml": "kniha_apokryfu_021.html"
       },
       {
-        "titleSuggest": "Pilátovo\nkrédo",
+        "titleSuggest": "Pilátovo krédo",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_022.md",
         "xhtml": "kniha_apokryfu_022.html"
       },
       {
-        "titleSuggest": "Císař\nDioklecián",
+        "titleSuggest": "Císař Dioklecián",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_023.md",
         "xhtml": "kniha_apokryfu_023.html"
@@ -689,7 +689,7 @@
         "xhtml": "kniha_apokryfu_025.html"
       },
       {
-        "titleSuggest": "Bratr\nFrantišek",
+        "titleSuggest": "Bratr František",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_026.md",
         "xhtml": "kniha_apokryfu_026.html"
@@ -701,31 +701,31 @@
         "xhtml": "kniha_apokryfu_027.html"
       },
       {
-        "titleSuggest": "Goneril,\ndcera Learova",
+        "titleSuggest": "Goneril, dcera Learova",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_028.md",
         "xhtml": "kniha_apokryfu_028.html"
       },
       {
-        "titleSuggest": "Hamlet,\nprinc dánský",
+        "titleSuggest": "Hamlet, princ dánský",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_029.md",
         "xhtml": "kniha_apokryfu_029.html"
       },
       {
-        "titleSuggest": "Zpověď\nDona Juana",
+        "titleSuggest": "Zpověď Dona Juana",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_030.md",
         "xhtml": "kniha_apokryfu_030.html"
       },
       {
-        "titleSuggest": "Romeo\na Julie",
+        "titleSuggest": "Romeo a Julie",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_031.md",
         "xhtml": "kniha_apokryfu_031.html"
       },
       {
-        "titleSuggest": "Pan\nHynek Ráb z Kufštejna",
+        "titleSuggest": "Pan Hynek Ráb z Kufštejna",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_032.md",
         "xhtml": "kniha_apokryfu_032.html"
@@ -737,13 +737,13 @@
         "xhtml": "kniha_apokryfu_033.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_034.md",
         "xhtml": "kniha_apokryfu_034.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "kniha_apokryfu_035.md",
         "xhtml": "kniha_apokryfu_035.html"
@@ -876,6 +876,6 @@
       "user": "books-are-next",
       "repo": "kniha-apokryfu"
     },
-    "generatedAt": 1649014028896
+    "generatedAt": 1652351577970
   }
 }

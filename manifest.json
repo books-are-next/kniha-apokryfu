@@ -1,22 +1,60 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "capek-kniha-apokryfu-e04c67c",
-  "languagecode": "cs",
-  "modified": "2017-10-27T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kniha apokryfů",
-  "revision": "e04c67c",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-kniha-apokryfu-93af64e",
+  "revision": "93af64e",
+  "readingOrder": [
+    "promo.html",
+    "kniha_apokryfu_005.html",
+    "kniha_apokryfu_006.html",
+    "kniha_apokryfu_007.html",
+    "kniha_apokryfu_008.html",
+    "kniha_apokryfu_009.html",
+    "kniha_apokryfu_010.html",
+    "kniha_apokryfu_011.html",
+    "kniha_apokryfu_012.html",
+    "kniha_apokryfu_013.html",
+    "kniha_apokryfu_014.html",
+    "kniha_apokryfu_015.html",
+    "kniha_apokryfu_016.html",
+    "kniha_apokryfu_017.html",
+    "kniha_apokryfu_018.html",
+    "kniha_apokryfu_019.html",
+    "kniha_apokryfu_020.html",
+    "kniha_apokryfu_021.html",
+    "kniha_apokryfu_022.html",
+    "kniha_apokryfu_023.html",
+    "kniha_apokryfu_024.html",
+    "kniha_apokryfu_025.html",
+    "kniha_apokryfu_026.html",
+    "kniha_apokryfu_027.html",
+    "kniha_apokryfu_028.html",
+    "kniha_apokryfu_029.html",
+    "kniha_apokryfu_030.html",
+    "kniha_apokryfu_031.html",
+    "kniha_apokryfu_032.html",
+    "kniha_apokryfu_033.html",
+    "kniha_apokryfu_034.html",
+    "kniha_apokryfu_035.html",
+    "kniha_apokryfu_036.html",
+    "kniha_apokryfu_037.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Apr 03 2022 19:28:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649014081364
+    "date": "Thu May 12 2022 10:42:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352136060
   },
   "documents": [
     {
-      "title": "Kniha apokryfů",
-      "file": "kniha_apokryfu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +62,17 @@
       "order": 0,
       "prev": null,
       "next": "kniha_apokryfu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Kniha apokryfů",
+      "title": "Předmluva",
       "file": "kniha_apokryfu_005.html",
       "words": 141,
       "chars": 937,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "kniha_apokryfu_002.html",
+      "prev": "promo.html",
       "next": "kniha_apokryfu_006.html",
       "toc": [
         {
@@ -55,7 +85,7 @@
       ]
     },
     {
-      "title": "Prometheův trest • Kniha apokryfů",
+      "title": "Prometheův trest",
       "file": "kniha_apokryfu_006.html",
       "words": 1180,
       "chars": 7359,
@@ -75,7 +105,7 @@
       ]
     },
     {
-      "title": "O úpadku doby • Kniha apokryfů",
+      "title": "O úpadku doby",
       "file": "kniha_apokryfu_007.html",
       "words": 1428,
       "chars": 7933,
@@ -95,11 +125,11 @@
       ]
     },
     {
-      "title": "Jako\nza starých časů • Kniha apokryfů",
+      "title": "Jako za starých časů",
       "file": "kniha_apokryfu_008.html",
       "words": 597,
-      "chars": 3352,
-      "ideas": 27,
+      "chars": 3353,
+      "ideas": 26,
       "role": "chapter",
       "order": 4,
       "prev": "kniha_apokryfu_007.html",
@@ -108,14 +138,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jako\nza starých časů",
+          "name": "Jako za starých časů",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Thersites • Kniha apokryfů",
+      "title": "Thersites",
       "file": "kniha_apokryfu_009.html",
       "words": 1427,
       "chars": 8372,
@@ -135,11 +165,11 @@
       ]
     },
     {
-      "title": "Agathon\nčili o moudrosti • Kniha apokryfů",
+      "title": "Agathon čili o moudrosti",
       "file": "kniha_apokryfu_010.html",
       "words": 935,
-      "chars": 5626,
-      "ideas": 20,
+      "chars": 5627,
+      "ideas": 19,
       "role": "chapter",
       "order": 6,
       "prev": "kniha_apokryfu_009.html",
@@ -148,18 +178,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Agathon\nčili o moudrosti",
+          "name": "Agathon čili o moudrosti",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Alexandr\nVeliký • Kniha apokryfů",
+      "title": "Alexandr Veliký",
       "file": "kniha_apokryfu_011.html",
       "words": 1303,
-      "chars": 7938,
-      "ideas": 15,
+      "chars": 7939,
+      "ideas": 14,
       "role": "chapter",
       "order": 7,
       "prev": "kniha_apokryfu_010.html",
@@ -168,18 +198,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Alexandr\nVeliký",
+          "name": "Alexandr Veliký",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Smrt\nArchimedova • Kniha apokryfů",
+      "title": "Smrt Archimedova",
       "file": "kniha_apokryfu_012.html",
       "words": 705,
-      "chars": 4218,
-      "ideas": 42,
+      "chars": 4219,
+      "ideas": 41,
       "role": "chapter",
       "order": 8,
       "prev": "kniha_apokryfu_011.html",
@@ -188,18 +218,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Smrt\nArchimedova",
+          "name": "Smrt Archimedova",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Římské\nlegie • Kniha apokryfů",
+      "title": "Římské legie",
       "file": "kniha_apokryfu_013.html",
       "words": 995,
-      "chars": 5777,
-      "ideas": 41,
+      "chars": 5778,
+      "ideas": 40,
       "role": "chapter",
       "order": 9,
       "prev": "kniha_apokryfu_012.html",
@@ -208,14 +238,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Římské\nlegie",
+          "name": "Římské legie",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "O desíti spravedlivých • Kniha apokryfů",
+      "title": "O desíti spravedlivých",
       "file": "kniha_apokryfu_014.html",
       "words": 1186,
       "chars": 7080,
@@ -235,11 +265,11 @@
       ]
     },
     {
-      "title": "Pseudolot\nčili o vlastenectví • Kniha apokryfů",
+      "title": "Pseudolot čili o vlastenectví",
       "file": "kniha_apokryfu_015.html",
       "words": 1314,
-      "chars": 7388,
-      "ideas": 45,
+      "chars": 7389,
+      "ideas": 44,
       "role": "chapter",
       "order": 11,
       "prev": "kniha_apokryfu_014.html",
@@ -248,18 +278,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pseudolot\nčili o vlastenectví",
+          "name": "Pseudolot čili o vlastenectví",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Svatá\nnoc • Kniha apokryfů",
+      "title": "Svatá noc",
       "file": "kniha_apokryfu_016.html",
       "words": 736,
-      "chars": 4129,
-      "ideas": 22,
+      "chars": 4130,
+      "ideas": 21,
       "role": "chapter",
       "order": 12,
       "prev": "kniha_apokryfu_015.html",
@@ -268,18 +298,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Svatá\nnoc",
+          "name": "Svatá noc",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Marta\na Maria • Kniha apokryfů",
+      "title": "Marta a Maria",
       "file": "kniha_apokryfu_017.html",
       "words": 1617,
-      "chars": 8864,
-      "ideas": 38,
+      "chars": 8865,
+      "ideas": 37,
       "role": "chapter",
       "order": 13,
       "prev": "kniha_apokryfu_016.html",
@@ -288,14 +318,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Marta\na Maria",
+          "name": "Marta a Maria",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lazar • Kniha apokryfů",
+      "title": "Lazar",
       "file": "kniha_apokryfu_018.html",
       "words": 851,
       "chars": 4640,
@@ -315,7 +345,7 @@
       ]
     },
     {
-      "title": "O pěti chlebích • Kniha apokryfů",
+      "title": "O pěti chlebích",
       "file": "kniha_apokryfu_019.html",
       "words": 1076,
       "chars": 5801,
@@ -335,7 +365,7 @@
       ]
     },
     {
-      "title": "Benchanan • Kniha apokryfů",
+      "title": "Benchanan",
       "file": "kniha_apokryfu_020.html",
       "words": 1019,
       "chars": 5681,
@@ -370,11 +400,11 @@
       ]
     },
     {
-      "title": "Pilátův\nvečer • Kniha apokryfů",
+      "title": "Pilátův večer",
       "file": "kniha_apokryfu_021.html",
       "words": 770,
-      "chars": 4221,
-      "ideas": 18,
+      "chars": 4222,
+      "ideas": 17,
       "role": "chapter",
       "order": 17,
       "prev": "kniha_apokryfu_020.html",
@@ -383,18 +413,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pilátův\nvečer",
+          "name": "Pilátův večer",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pilátovo\nkrédo • Kniha apokryfů",
+      "title": "Pilátovo krédo",
       "file": "kniha_apokryfu_022.html",
       "words": 1014,
-      "chars": 5641,
-      "ideas": 21,
+      "chars": 5642,
+      "ideas": 20,
       "role": "chapter",
       "order": 18,
       "prev": "kniha_apokryfu_021.html",
@@ -403,18 +433,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pilátovo\nkrédo",
+          "name": "Pilátovo krédo",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Císař\nDioklecián • Kniha apokryfů",
+      "title": "Císař Dioklecián",
       "file": "kniha_apokryfu_023.html",
       "words": 1243,
-      "chars": 7348,
-      "ideas": 29,
+      "chars": 7349,
+      "ideas": 28,
       "role": "chapter",
       "order": 19,
       "prev": "kniha_apokryfu_022.html",
@@ -423,14 +453,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Císař\nDioklecián",
+          "name": "Císař Dioklecián",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Attila • Kniha apokryfů",
+      "title": "Attila",
       "file": "kniha_apokryfu_024.html",
       "words": 1263,
       "chars": 7334,
@@ -450,7 +480,7 @@
       ]
     },
     {
-      "title": "Obrazoborectví • Kniha apokryfů",
+      "title": "Obrazoborectví",
       "file": "kniha_apokryfu_025.html",
       "words": 1854,
       "chars": 11446,
@@ -470,11 +500,11 @@
       ]
     },
     {
-      "title": "Bratr\nFrantišek • Kniha apokryfů",
+      "title": "Bratr František",
       "file": "kniha_apokryfu_026.html",
       "words": 929,
-      "chars": 5370,
-      "ideas": 30,
+      "chars": 5371,
+      "ideas": 29,
       "role": "chapter",
       "order": 22,
       "prev": "kniha_apokryfu_025.html",
@@ -483,14 +513,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bratr\nFrantišek",
+          "name": "Bratr František",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ofir • Kniha apokryfů",
+      "title": "Ofir",
       "file": "kniha_apokryfu_027.html",
       "words": 1485,
       "chars": 8999,
@@ -510,11 +540,11 @@
       ]
     },
     {
-      "title": "Goneril,\ndcera Learova • Kniha apokryfů",
+      "title": "Goneril, dcera Learova",
       "file": "kniha_apokryfu_028.html",
       "words": 933,
-      "chars": 4867,
-      "ideas": 10,
+      "chars": 4868,
+      "ideas": 9,
       "role": "chapter",
       "order": 24,
       "prev": "kniha_apokryfu_027.html",
@@ -523,18 +553,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Goneril,\ndcera Learova",
+          "name": "Goneril, dcera Learova",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hamlet,\nprinc dánský • Kniha apokryfů",
+      "title": "Hamlet, princ dánský",
       "file": "kniha_apokryfu_029.html",
       "words": 1312,
-      "chars": 7396,
-      "ideas": 241,
+      "chars": 7397,
+      "ideas": 240,
       "role": "chapter",
       "order": 25,
       "prev": "kniha_apokryfu_028.html",
@@ -543,18 +573,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Hamlet,\nprinc dánský",
+          "name": "Hamlet, princ dánský",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zpověď\nDona Juana • Kniha apokryfů",
+      "title": "Zpověď Dona Juana",
       "file": "kniha_apokryfu_030.html",
       "words": 1606,
-      "chars": 9427,
-      "ideas": 43,
+      "chars": 9428,
+      "ideas": 42,
       "role": "chapter",
       "order": 26,
       "prev": "kniha_apokryfu_029.html",
@@ -563,18 +593,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zpověď\nDona Juana",
+          "name": "Zpověď Dona Juana",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Romeo\na Julie • Kniha apokryfů",
+      "title": "Romeo a Julie",
       "file": "kniha_apokryfu_031.html",
       "words": 1428,
-      "chars": 8355,
-      "ideas": 41,
+      "chars": 8356,
+      "ideas": 40,
       "role": "chapter",
       "order": 27,
       "prev": "kniha_apokryfu_030.html",
@@ -583,18 +613,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Romeo\na Julie",
+          "name": "Romeo a Julie",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pan\nHynek Ráb z Kufštejna • Kniha apokryfů",
+      "title": "Pan Hynek Ráb z Kufštejna",
       "file": "kniha_apokryfu_032.html",
       "words": 1242,
-      "chars": 6961,
-      "ideas": 31,
+      "chars": 6962,
+      "ideas": 30,
       "role": "chapter",
       "order": 28,
       "prev": "kniha_apokryfu_031.html",
@@ -603,14 +633,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pan\nHynek Ráb z Kufštejna",
+          "name": "Pan Hynek Ráb z Kufštejna",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Napoleon • Kniha apokryfů",
+      "title": "Napoleon",
       "file": "kniha_apokryfu_033.html",
       "words": 1016,
       "chars": 5824,
@@ -630,11 +660,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Kniha apokryfů",
+      "title": "Ediční poznámka",
       "file": "kniha_apokryfu_034.html",
       "words": 77,
-      "chars": 615,
-      "ideas": 5,
+      "chars": 616,
+      "ideas": 4,
       "role": "chapter",
       "order": 30,
       "prev": "kniha_apokryfu_033.html",
@@ -643,18 +673,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Kniha apokryfů",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "kniha_apokryfu_035.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 31,
       "prev": "kniha_apokryfu_034.html",
@@ -663,14 +693,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Kniha apokryfů",
+      "title": "První vydání knih Karla Čapka",
       "file": "kniha_apokryfu_036.html",
       "words": 233,
       "chars": 1155,
@@ -690,7 +720,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Kniha apokryfů",
+      "title": "Poznámky pod čarou",
       "file": "kniha_apokryfu_037.html",
       "words": 333,
       "chars": 2136,
@@ -710,11 +740,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kniha apokryfů",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 893,
-      "ideas": 23,
+      "words": 105,
+      "chars": 704,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "kniha_apokryfu_037.html",
@@ -732,14 +762,14 @@
   ],
   "totals": {
     "all": {
-      "words": 33681,
-      "chars": 195143,
-      "ideas": 1269
+      "words": 33652,
+      "chars": 194974,
+      "ideas": 1240
     },
     "chapters": {
       "words": 33541,
-      "chars": 194214,
-      "ideas": 1242
+      "chars": 194234,
+      "ideas": 1222
     }
   }
 }

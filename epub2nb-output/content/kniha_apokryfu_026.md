@@ -1,7 +1,5 @@
 ---
-title: |-
-  Bratr
-  František
+title: Bratr František
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Jako
-  za starých časů
+title: Jako za starých časů
 contentType: prose
 ---
 

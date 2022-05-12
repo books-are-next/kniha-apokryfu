@@ -1,7 +1,5 @@
 ---
-title: |-
-  Svatá
-  noc
+title: Svatá noc
 contentType: prose
 ---
 
