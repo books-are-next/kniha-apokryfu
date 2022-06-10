@@ -3,6 +3,8 @@ title: Marta a Maria
 contentType: prose
 ---
 
+<section>
+
 I stalo se, když šli, že on všel do jednoho městečka. Žena pak jedna, jménem Marta, přijala jej do domu svého.
 
 A ta měla sestru, jménem Marii, kteráž seděci u noh Ježíšových, poslouchala slova jeho.
@@ -74,3 +76,5 @@ Bylo chvíli ticho. „A to bylo všechno, co promluvil?“ ptala se paní Táma
 Tu Marta hlučně vysmrkala slzy a řekla: „Tak ukažte, paní Grünfeld, já vám převinu toho haranta.“
 
 _Lidové noviny 3. 1. 1932_
+
+</section>

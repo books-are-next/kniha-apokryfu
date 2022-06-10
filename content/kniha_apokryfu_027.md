@@ -3,6 +3,8 @@ title: Ofir
 contentType: prose
 ---
 
+<section>
+
 Lidé na náměstí svatého Marka se stěží ohlédli, když pochopové vedli toho staříka k dóžeti. Byl velmi sešlý a špinavý, řeklo by se, že je to nějaký zlodějíček z přístavu.
 
 „Tento muž,“ hlásil podestà vicegerente[\[18\]](./resources/undefined) před dóžecím trůnem, „praví, že se jmenuje Giovanni Fialho, kupec z Lisabonu; tvrdí, že byl majitelem lodi a že ho s celou posádkou a nákladem zajali alžírští piráti; vypovídá, že se mu podařilo utéci z galejí a že by mohl prokázat Benátské republice znamenité služby – jaké, to prý může svěřiti jen dóžecí Milosti samotné.“
@@ -150,3 +152,5 @@ Podestà vicegerente tázavě vzhlédl.
 „Jako obyčejně, jako obyčejně,“ zívl dóže. „Nechte ho sedět, až bude modrý, a pak ho prodejte na galeje. Škoda,“ bručel, „že je to podvodník; ledacos z toho, co řekl, mělo jakési jádro… Asi to slyšel od Arabů.“
 
 _Lidové noviny 13. 11. 1932_
+
+</section>

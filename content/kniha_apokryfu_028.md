@@ -3,6 +3,8 @@ title: Goneril, dcera Learova
 contentType: prose
 ---
 
+<section>
+
 Ne, nic mi není, chůvo, – a neříkej mi zlatá děvenko. Já vím, žes mi tak říkávala, když jsem byla malá; a král Lear mi říkal ty kluku mrňavá, viď? Byl by měl raději syna – co myslíš, jsou synové hodnější než děvčata? Regan byla odjakživa taková slečinka a Cordelie – vždyť víš: mouchy, snězte si mě. Hotové boží dřevo. A Regan – člověk by to do ní neřekl: nos nahoru jak královna, ale sobec, pamatuješ se? V ní to bylo ale odjakživa. Řekni, bábo, byla já jsem zlá, když jsem byla maličká? Tak vidíš.
 
 Jak to přijde, že se člověk stane zlým? Já vím, chůvo, že jsem zlá. Neříkej, ty si to také myslíš. Mně je to jedno, co si všichni o mně myslíte. Třebas i zlá: ale v tom, co bylo s tatínkem, jsem měla pravdu já, chůvo. Proč jen si vzal do hlavy, že musí s sebou tahat těch sto svých chlapů, a kdyby jich bylo jenom sto; ale k tomu ještě všelijaká čeleď – to jednoduše nejde. Jeho bych byla ráda viděla, namouduši, chůvo; já ho měla ráda, nesmírně ráda, raději než koho druhého na světě; ale ta jeho rota, kristepane. – Vždyť mně udělali z domu hampejz! Jen si vzpomeň, chůvo, jak to tady vypadalo: samý povaleč, samý tartas a hádky a křik, a té nečistoty, no víš. – Horší než hnojiště. Řekni, chůvo, která paní domu by si tohle dala líbit! A poručit se jim nemohlo, kdepak! jim směl něco nařídit jen král Lear. – Mně se jen vyšklíbli. V noci to lezlo za služkami – pořád bylo slyšet někde ťap ťap a šelest a pištění – vévoda spal jako dřevo; já ho budím, slyšíš? A on jen bručel, nech je a spi. – Považ si, chůvo, jak mně při tom bylo! Ty jsi také bývala mladá, ty si to dovedeš představit, viď? Když jsem si stěžovala králi Learovi, ještě se mi vysmál: to víš, holka, co jiného můžeš čekat od chlapů? Zacpi si uši, a máš to.
@@ -18,3 +20,5 @@ Ne, já nepláču. Nemysli si, že mne to nějak trápí. Naopak, člověk je vo
 Chůvo, chůvo, chůvo, proč tehdy neviděli, že jsem byla v právu!
 
 _Lidové noviny 29. 1. 1933_
+
+</section>

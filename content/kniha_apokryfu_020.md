@@ -3,6 +3,8 @@ title: Benchanan
 contentType: prose
 ---
 
+<section>
+
 ## Ananiáš
 
 Ptáte se, Benchanane, je-li vinen. To máte tak: já jsem ho neodsoudil na smrt, poslal jsem ho jenom ke Kaifášovi. Ať vám řekne Kaifáš, jakou vinu na něm našel. Já osobně s tím nemám co dělat.
@@ -22,3 +24,5 @@ Cože? Říkáte, které jsou ty důvody? Benchanane, Benchanane, tak se mi zdá
 A ještě něco. Neměl říkat, že přišel spasit svět a že je Mesiáš a syn Boží nebo co. My – přece víme, že je z Nazaretu – prosím vás, jakýpak spasitel! Jsou ještě lidé, kteří ho pamatují jako tesařova kluka, – a ten člověk by chtěl napravovat svět? Kam by se hrabal! Já jsem dobrý Žid, Benchanane, ale to mně nikdo nenamluví, že by některý našinec mohl spasit svět. To bychom se hrozně přeceňovali, člověče. Neřeknu nic, kdyby to byl Říman nebo Egypťan; ale takový Židáček z Galileje – vždyť je to k smíchu! To ať povídá někomu jinému, že přišel spasit svět, ale nám ne, Benchanane. Nám ne. Nám ne.
 
 _Lidové noviny 3. 6. 1934_
+
+</section>

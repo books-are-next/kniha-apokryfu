@@ -3,6 +3,8 @@ title: Pseudolot čili o vlastenectví
 contentType: prose
 ---
 
+<section>
+
 I přišli dva andělé do Sodomy u večer, a Lot seděl v bráně města. Kterýžto, když je uzřel, vstal a šel v cestu jim: a učinil poklonu, skloniv se až k zemi, a řekl: „Prosím, páni, uchylte se do domu služebníka svého, a zůstaňte tam: umyjte nohy své, a ráno půjdete cestou svou.“ Kteřížto řekli: „Nikoli, ale na ulici zůstaneme.“
 
 Ale on nutil je velmi, aby se uchýlili k němu: a když vešli, udělal hody, a napekl chlebů přesných: i jedli.
@@ -88,3 +90,5 @@ Tu ohlédl se Lot a vykřikl a běžel zpátky k městu.
 „Jdu pomáhat Sodomským,“ odpověděl Lot a vešel do města.
 
 _Ruch filozofický, říjen 1923_
+
+</section>

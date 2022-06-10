@@ -3,6 +3,8 @@ title: Prometheův trest
 contentType: prose
 ---
 
+<section>
+
 Pochrchlávaje a hekaje po dlouhém průvodním řízení odebral se mimořádný senát k poradě, jež se konala ve stínu posvátné olivy.
 
 „Tak, pánové,“ zívl Hypometheus, předseda senátu. „Ale že se nám to zatrápeně protáhlo. Já myslím, že bych nemusel ani podávat resumé, no ale aby nebylo formálních námitek – – Tak tedy obžalovaný Prometheus, zdejší občan, byv pohnán před soud, že vynalezl oheň a tím jaksi – ehm ehm – porušil stávající řád, se přiznal, že: za prvé skutečně vynalezl oheň; dále že je s to, kdykoliv se mu zlíbí, vyvolati týž činností zvanou křesání; za třetí že toto tajemství, respektive pohoršující objev nikterak řádně nezatajil ani neoznámil na příslušném místě, nýbrž jej svévolně prozradil, potažmo dal v užívání nepovolaným lidem, jak je dosvědčeno výpověďmi dotyčných osob, které jsme právě vyslechli. Já myslím, že to stačí a že bychom mohli hned přikročit k hlasování o vině a rozsudku.“
@@ -38,3 +40,5 @@ Pochrchlávaje a hekaje po dlouhém průvodním řízení odebral se mimořádn�
 „Tomu ty nerozumíš,“ bručel Hypometheus ohryzuje přitom skopovou kýtku. „Panečku, taková pečená kýta přece jen chutná líp než syrová; tak vida, k něčemu je ten oheň přece jen dobrý. – To byly důvody veřejného zájmu, víš? Kampak by to vedlo, kdyby kdekdo směl beztrestně přijít s něčím velikým, no ne? Ale něco tomu masu ještě chybí – – Už to mám!“ zvolal radostně. „Pečená kýta by se měla posolit a potřít česnekem! To je to pravé! Hochu, to přece je objev! Vidíš, na to by takový Prometheus nepřišel!“
 
 _Lidové noviny 5. 6. 1932_
+
+</section>

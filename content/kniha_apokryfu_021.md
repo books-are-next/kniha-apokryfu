@@ -3,6 +3,8 @@ title: Pilátův večer
 contentType: prose
 ---
 
+<section>
+
 Toho dne večeřel Pilát se svým pobočníkem: byl to mladý poručík Suza, rodem z Kyrenaiky. Suza ani nepozoroval, že je místodržitel nějak zamlklý, a vesele žvanil rozjařen tím, že poprvé v životě zažil zemětřesení.
 
 „To vám byla švanda,“ hlaholil mezi jídlem. „Když se po obědě udělala ta tma, běžel jsem ven podívat se, oč jde. Na schodech se mně zdálo, že mně z ničeho nic brkly nebo ujely nohy či co, – no, k smíchu to bylo; namouduši, Excelence, jakživo by mě nenapadlo, že tohle je to celé zemětřesení. A než jsem se dostal za roh, už proti mně běží úprkem nějací civilisté s očima navrch hlavy a křičí: Hrobové se otvírají a skály se pukají! Těbůh, povídám si, že by zemětřesení? Člověče, říkám si, máš ty štístko! To přece je dost vzácný přírodní úkaz, že?“
@@ -34,3 +36,5 @@ Pilát pokynul. „Jednou jsem už viděl zemětřesení,“ řekl. „To bylo v
 Pilát umlkl a roztržitě smetal ze stolu drobečky. „Nu, nepřišli,“ zabručel. „Ach, Suzo, jaká marná věc je vládnout!“
 
 _Lidové noviny 27. 3. 1932_
+
+</section>

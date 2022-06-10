@@ -3,6 +3,8 @@ title: Attila
 contentType: prose
 ---
 
+<section>
+
 Ráno přinesl posel z kraje lesa zprávu, že na jihovýchodě plála v noci ohnivá záplava. Toho dne zase sychravě mžilo, mokrá polena nechtěla ani hořet; tři lidé z houfce ukrytého v rokli zemřeli na krvavou stolici. Protože už nebylo co jíst, vypravili se dva muži k pastýřům v zálesí; vrátili se pozdě odpoledne promoklí a k smrti vysílení; stěží z nich dostali, že je zle: ovce kapají a krávy se nadýmají; pastýři se na ně vrhli s kyji a noži, když jeden z nich chtěl odvést svou vlastní jalůvku, kterou jim svěřil před útěkem do lesů.
 
 „Modleme se,“ děl farář, trpící úplavicí. „Hospodin se slituje.“
@@ -102,3 +104,5 @@ Té noci vzplanula záplava na severozápadě. Řídce přeprchávalo. Pět lid�
 Mladíka pověsili po delším mučení.
 
 _Lidové noviny 26. 6. 1932_
+
+</section>

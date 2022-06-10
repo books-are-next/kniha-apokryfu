@@ -3,6 +3,8 @@ title: Napoleon
 contentType: prose
 ---
 
+<section>
+
 Mlle Claire (od Comédie française) ani nedutala; věděla, že se císař občas takto zamyslí a je nerad vyrušován. Ostatně, mezi námi, o čem s ním mluvit? Co chcete, je to přece jen císař; člověk se tu necítí doma, není-liž pravda? (Je to přese vše cizinec, dumá Mlle Claire, pas très Parisien.) (Nicméně takto u krbu má dost hezkou tvář.) (Kdyby ovšem nebyl tak zavalitý.) (Là là, nemá to ani žádný krk, c’est drôle.) (Ale víte, mohl by být poněkud zdvořilejší!)
 
 Na krbu tikají těžké mramorové hodiny. Zítra, myslí si císař, musím přijmout zástupce měst – je to hloupé, ale co dělat; jistě si budou naříkat na daně. Potom rakouský vyslanec – pořád ta historie. Pak se přijdou představit noví soudní prezidenti – musím si předtím přečíst, kde který z nich působil; ty lidi to těší, že o nich něco vím. Císař počítá na prstech. Ještě něco? Ano, comte Ventura, zas bude donášet na papeže – – Napoleon potlačil zívnutí. Bože, jaká otrava! Měl bych si zavolat toho – jak se jmenuje? toho obratného človíčka, co se teď vrátil z Anglie. Jak se ten chlapík jenom jmenuje – porco[\[33\]](./resources/undefined), vždyť je to můj nejlepší zvěd!
@@ -50,3 +52,5 @@ Byl náhle velmi vášnivý a bezohledný.
 „Ah, Sire,“ vydechla Mlle Claire, „comme vous êtes grand![\[36\]](./resources/undefined)“
 
 _Lidové noviny 1. 1. 1933_
+
+</section>

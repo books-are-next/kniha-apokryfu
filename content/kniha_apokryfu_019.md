@@ -3,6 +3,8 @@ title: O pěti chlebích
 contentType: prose
 ---
 
+<section>
+
 … Co proti němu mám? Já vám to povím rovnou, sousede: ne že bych měl něco proti jeho učení. To ne. Jednou jsem poslouchal jeho kázání, a já vám řeknu, málem bych se byl taky stal jeho učedníkem. Tehdy jsem se vrátil domů a povídám svému bratranci sedlářovi, ty, to bys měl slyšet; řeknu ti, je to svým způsobem prorok. Moc krásně mluví, jen co je pravda; zrovna se v člověku srdce obrací; já vám měl tehdy oči plné slz, byl bych nejraději zavřel můj krám a šel za ním, abych ho už nikdy neztratil z očí. Rozdej všechno, co máš, řekl, a následuj mne. Miluj bližního svého, pomáhej chudým a odpouštěj těm, kdo ti ubližují, a takové věci. Já jsem obyčejný pekař, ale když jsem ho poslouchal, tak vám byla ve mně taková divná radost a bolest, já nevím, jak bych to řekl: taková tíha, že bych klekl na zem a plakal, a přitom tak krásně a lehko, jako by ze mne všechno padalo, víte, všechna starost i zlost. Tak já tehdy povídám svému bratranci, ty troubo, mohl by ses stydět; mluvíš samé hamižnosti, co ti je kdo dlužen a že máš platit tyhlety desátky a přirážky a úroky; kdybys raději rozdal chudým všechno, co máš, opustil ženu i děti a šel za ním – –
 
 A to, že léčí nemocné a posedlé, to bych mu taky nevytýkal. Pravda, je to divná a nepřirozená moc; ale to přece každý vidí, že naši ranhojiči jsou žabaři a ti římští nejsou o nic lepší; peníze brát dovedou, ale když je zavoláte k umírajícímu, tak jenom pokrčí rameny a řeknou, že jste je měl zavolat dřív. Dřív! Má nebožka žena stonala dva roky krvotokem; já ji vodil po doktorech, nemáte ponětí, co peněz to stálo, a nepomohl jí žádný. Kdyby byl on už tehdy chodil po městech, byl bych před ním padl na kolena a řekl: Pane, uzdrav tuto ženu! A ona by se dotkla jeho roucha a uzdravila by se. Takhle chudák zkusila, že se to ani povídat nedá – To teda bych mu chválil, že uzdravuje nemocné. To víte, felčaři proti tomu křičí, a prý podvod je to a fušerství, a chtěli by mu to zakázat a kdesi cosi; ale to už tak máte ty všelijaké zájmy. Kdo chce pomáhat lidem a spasit svět, vždycky narazí na něčí zájem; všem se nemůžeš zavděčit, to jinak nejde. Říkám, uzdravovat může, a třeba i mrtvé ať křísí; ale to s těmi pěti chleby neměl dělat. Jako pekař vám řeknu, že to byla velká křivda na pekařích.
@@ -16,3 +18,5 @@ Koukejte se, sousede: já jsem jednou starý člověk a jsem na světě sám; ne
 Rozumí se, podali jsme na něho stížnost k Ananiášovi i k místodržícímu, jako pro rušení živnostenského řádu a pro pobuřování; ale to víte, jak u těch úřadů všechno jde na dlouhé lokte. Vy mě znáte, sousede; jsem mírný člověk a nehledám s nikým rozbroje; ale kdyby on přišel do Jeruzaléma, postavím se na ulici a budu volat: Ukřižujte ho! Ukřižujte ho!
 
 _Lidové noviny 28. 3. 1937_
+
+</section>

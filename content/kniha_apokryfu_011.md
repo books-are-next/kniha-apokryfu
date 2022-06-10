@@ -3,6 +3,8 @@ title: Alexandr Veliký
 contentType: prose
 ---
 
+<section>
+
 Aristotelovi ze Stagyru,  
 řediteli lycea v Athénách
 
@@ -27,3 +29,5 @@ Zdraví vás, můj drahý Aristotele,
 váš Alexandr.
 
 _Lidové noviny 1. 5. 1937_
+
+</section>

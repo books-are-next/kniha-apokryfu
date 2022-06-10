@@ -3,6 +3,8 @@ title: Hamlet, princ dánský
 contentType: prose
 ---
 
+<section>
+
 _Scéna X._
 
 _ROSENKRANTZ a GUILDENSTERN odcházejí._
@@ -322,3 +324,5 @@ kdybych byl něčím! – Ano, ale čím?
 To je ta otázka!
 
 _Lidové noviny 28. 10. 1934_
+
+</section>

@@ -3,6 +3,8 @@ title: Thersites
 contentType: prose
 ---
 
+<section>
+
 Byla noc a mužové achájští sesedli se blíže k ohňům.
 
 „Ta skopová zas nebyla k žrádlu,“ ozval se Thersites dloubaje se v zubech. „Já se vám divím, Achájci, že si to necháte líbit. Vsadil bych se, že oni měli k večeři nejmíň beránky zimrlíky[\[4\]](./resources/undefined); ale to se ví, pro nás, staré vojáky, je smradlavý kozel dost dobrý. Lidi, když si vzpomenu na to skopové u nás v Řecku –“
@@ -56,3 +58,5 @@ Byla noc a mužové achájští sesedli se blíže k ohňům.
 „Dobrou noc,“ děl Thersites srdečně a s libostí se protáhl. „Ale že jsme si dnes pěkně pobesedovali, co?“
 
 _Lidové noviny 22. 11. 1931_
+
+</section>

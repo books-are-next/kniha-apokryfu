@@ -3,6 +3,8 @@ title: O desíti spravedlivých
 contentType: prose
 ---
 
+<section>
+
 I řekl Hospodin: Protože rozmnožen jest křik Sodomských a Gomorských a hřích jejich že obtížen je náramně:
 
 Sstoupím již a pohledím, jestliže podle křiku jejich, kterýž přišel ke mně, činili, důjde na ně setření; a pakli toho není, zvím.
@@ -104,3 +106,5 @@ Sára pak řekla: „Jdi, Abraháme, jdi ještě jednou k Hospodinu, padni na ko
 A řekni mu: Smiluj se nad hříšným tím lidem a poshověj jim ještě. Měj slitování, Pane, a nech je žít. Avšak od nás, Hospodine, od nás lidí nežádej, abychom ti navrhli deset spravedlivých z veškerého lidu tvého.“
 
 _Lidové noviny 13. 9. 1931_
+
+</section>
