@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Votant (lat.) – přísedící u soudu. _Pozn. red_.
 
 [\[2\]](./resources/undefined) Chlamyda (řec.) – plášť ve starém Řecku nošený přes levé rameno a sepnutý kovovou sponou. _Pozn. red_.
@@ -74,3 +76,5 @@ contentType: prose
 [\[35\]](./resources/undefined) Hrome! _Pozn. red._
 
 [\[36\]](./resources/undefined) Jak jste veliký! _Pozn. red._
+
+</section>

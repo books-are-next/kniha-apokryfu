@@ -3,6 +3,8 @@ title: Pilátovo krédo
 contentType: prose
 ---
 
+<section>
+
 Odpověděl Ježíš: Proto jsem na svět přišel, abych vydal svědectví pravdě: každý, kdož jest z pravdy, slyší hlas můj.
 
 Dí jemu Pilát: Co jest pravda? A když to řekl, vyšel opět k Židům a dí jim: Já žádné viny na něm nenalézám.
@@ -40,3 +42,5 @@ Vy jste divný národ, který mnoho mluví. Máte samé farizeje, proroky, spasi
 „Nejsem,“ odpověděl Pilát. „Já věřím, věřím, horoucně věřím, že je pravda a že ji člověk poznává. Bylo by bláznivé myslit si, že je pravda jen k tomu, aby ji člověk nepoznal. Poznává ji, ano; ale kdo? Já, nebo ty, nebo snad každý? Já věřím, že každý má na ní podíl; i ten, kdo říká ano, i ten, kdo říká ne. Kdyby se ti dva spojili a rozuměli si, vznikla by tím celá pravda. Ano a ne se nedá ovšem spojit, ale lidé se vždycky mohou spojit; je více pravdy v lidech nežli ve slovech. Mám více smyslu pro lidi nežli pro jejich pravdy; ale i v tom je víra, Josefe Arimatejský, i k tomu je třeba udržovat se v nadšení a vytržení. Já věřím. Naprosto nepochybně věřím. Ale co je pravda?“
 
 _Ruch filozofický, prosinec 1920_
+
+</section>

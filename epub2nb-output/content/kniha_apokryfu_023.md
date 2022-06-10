@@ -3,6 +3,8 @@ title: Císař Dioklecián
 contentType: prose
 ---
 
+<section>
+
 Tento příběh by byl zajisté působivější, kdyby jeho hrdinkou byla dcera Diokleciánova nebo jiná mladičká a panenská bytost: ale pohříchu z důvodů historické pravdy je jí Diokleciánova sestra, letitá a důstojná matróna, podle císařova mínění poněkud hysterická a přepjatá, jíž se starý tyran do jisté míry bál. Proto když se mu ohlásila, přerušil slyšení s kyrenajským místodržitelem (jemuž silnými slovy dával najevo svou nelibost) a šel jí vstříc až ke dveřím.
 
 „Tak co je, Antonie?“ hlaholil žoviálně. „Co bys ráda? Máš zase nějaké pohořelé? Nebo mám něco udělat proti týrání šelem v cirku? Nebo chceš zavést mravní výchovu legií? Tak ven s tím, honem, a posaď se.“
@@ -56,3 +58,5 @@ Antonia vstala těžce oddechujíc. „Diokleciáne, abys to tedy věděl: já j
 „Ale jdi,“ podivil se mírně císař. „Nu, proč ne? Říkám přece, že to má něco do sebe; a pokud to zůstane tvou soukromou věcí – – Nemysli, Toni, že nemám pro takové věci pochopení. I já bych chtěl ještě jednou být lidskou duší; rád bych, Toničko, pověsil na hřebík své císařství a politiku a všechno – – totiž jen co dodělám reformu říšské správy a takové krámy; a pak, pak bych šel někam na venkov – – a studoval Platona – Krista – Marca Aurelia – a toho jejich Pavla, nebo jak se jmenuje – Ale teď promiň; mám nějaké politické porady.“
 
 _Lidové noviny 15. 5. 1932_
+
+</section>

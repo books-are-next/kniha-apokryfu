@@ -3,6 +3,8 @@ title: Romeo a Julie
 contentType: prose
 ---
 
+<section>
+
 Mladý anglický šlechtic Oliver Mendeville, který se zdržoval v Itálii na studijní cestě, dostal ve Florencii zprávu, že jeho otec sir William opustil tento svět. I rozžehnal se sir Oliver s těžkým srdcem a hojnými slzami se signorinou Maddalenou přísahaje, že se vrátí co nejdříve, a vydal se se svým sluhou na cestu směrem k Janovu.
 
 Třetího dne jejich cesty je přepadla řádná prška, právě když vjížděli do jakéhosi hnízda. Sir Oliver se zastavil s koněm pod starým jilmem. „Paolo,“ řekl sluhovi, „podívej se, je-li tu nějaké albergo[\[22\]](./resources/undefined), kde bychom přečkali liják.“
@@ -80,3 +82,5 @@ Sir Oliver vstával ve své celé rozpačité výšce. „Byl jste ohromně lask
 Do oken fary se rozlilo slunce.
 
 _Lidové noviny 6. 11. 1932_
+
+</section>

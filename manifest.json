@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-kniha-apokryfu-6b42edc",
-  "revision": "6b42edc",
+  "identifier": "capek-kniha-apokryfu-ff056cf",
+  "revision": "ff056cf",
   "readingOrder": [
     "promo.html",
     "kniha_apokryfu_005.html",
@@ -48,8 +48,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870663965
+    "date": "Fri Jun 10 2022 17:51:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883469642
   },
   "documents": [
     {
@@ -742,9 +742,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 105,
-      "chars": 704,
-      "ideas": 14,
+      "words": 44,
+      "chars": 325,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "kniha_apokryfu_037.html",
@@ -762,9 +762,9 @@
   ],
   "totals": {
     "all": {
-      "words": 33652,
-      "chars": 194974,
-      "ideas": 1240
+      "words": 33591,
+      "chars": 194595,
+      "ideas": 1231
     },
     "chapters": {
       "words": 33541,

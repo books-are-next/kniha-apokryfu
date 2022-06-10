@@ -3,6 +3,8 @@ title: Bratr František
 contentType: prose
 ---
 
+<section>
+
 Na silnici k Forli (tam, co odbočuje cesta na Lugo) se zastavil u jednoho kováře žebravý mnich; byl pomenší, trochu sražené postavy a ukazoval v širokém úsměvu několik žlutých zubů. „Bratře kováři,“ řekl vesele, „pozdrav Bůh, já jsem dnes ještě nejedl.“
 
 Kovář se narovnal, utřel si pot a myslel si něco o toulavých lidech. „Pojďte dál,“ bručel. „Bude tam kus sýra.“
@@ -58,3 +60,5 @@ Když je otevřel, klečí před ním mladá žena a má ruku položenu na hlav�
 A psík piště zběsilou radostí počal uhánět v kruhu kolem světce a klečící ženy.
 
 _Lidové noviny 27. 11. 1932_
+
+</section>

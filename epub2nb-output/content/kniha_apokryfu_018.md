@@ -3,6 +3,8 @@ title: Lazar
 contentType: prose
 ---
 
+<section>
+
 I do Betánie došla pověst o tom, že Galilejský byl zajat a odvlečen do vězení.
 
 Když se to doslechla Marta, sepjala ruce a z očí jí vytryskly slzy. „Vidíte,“ pravila, „já jsem to říkala! Proč šel do toho Jeruzaléma, proč nezůstal tady? Tady by o něm nikdo nevěděl – – mohl by tu klidně tesařit – – zařídil by si dílnu u nás na dvorku –“
@@ -62,3 +64,5 @@ V tu chvíli vystoupila na dvorek Marie připravená na cestu. „Tak, Lazare, p
 Z očí Lazarových pomalu stékaly slzy. „Já bych šel tak rád s sebou, Marto, kdybych já se tak nebál … ještě jednou umřít!“
 
 _Lidové noviny 27. 3. 1932_
+
+</section>

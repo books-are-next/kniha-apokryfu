@@ -3,6 +3,8 @@ title: Zpověď Dona Juana
 contentType: prose
 ---
 
+<section>
+
 Smrt nešťastné doni Elvíry byla pomstěna; don Juan Tenorio ležel s probodenou hrudí v Posadě de las Reinas a zřejmě umíral. „Emfyzém plic,“ bručel místní doktor. „Někdo by se z toho ještě vylízal, ale caballero tak vyžilý jako don Juan – To jsou těžké věci, Leporello[\[20\]](./resources/undefined); abych ti řekl, mně se nelíbí jeho srdce. Inu, to dá rozum: po takových excesech in venere[\[21\]](./resources/undefined) – vyloženě astenický případ, pánové. Já bych mu, Leporello, pro jistotu zavolal faráře: třeba ještě přijde k sobě, ačkoliv podle dnešního stavu vědy – já nevím. Mám tu čest se vám poroučet, caballeros.“
 
 Tak se stalo, že padre Jacinto usedl u nohou dona Juana a čekal, až se pacient probere z mrákot; zatím se modlil za jeho notoricky hříšnou duši. Kdyby se mně tak povedlo spasit tohoto pekelného hříšníka, myslil si dobrý páter; zdá se býti pořádně oddělán – snad to zkruší jeho zpupnost a přivede jeho mysl ve stav kající lítosti. To se každému nestane, aby dostal do rukou tak slavného a nesvědomitého prostopášníka; holenku, takový vzácný případ možná neměl ani biskup burgoský. To si budou lidé šeptat: Hele, to je padre Jacinto, ten, co spasil duši dona Juana –
@@ -88,3 +90,5 @@ Don Ildefonso vstal. „Chudáčku,“ řekl, „styděl jste se přiznati se k 
 I poslal pro faráře; a když přišel otec Jacinto, pravil mu don Ildefonso: „Hleďte, otče, doznal vše a plakal. Jeho lítost je nad veškeru pochybnost pokorná; snad bychom mu mohli udělit rozhřešení.“
 
 _Lidové noviny 20. 3. 1932_
+
+</section>

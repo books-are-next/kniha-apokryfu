@@ -3,6 +3,8 @@ title: Agathon čili o moudrosti
 contentType: prose
 ---
 
+<section>
+
 Boiótští[\[6\]](./resources/undefined) akademikové pozvali z Athén filozofa Agathona, aby jim přednášel o filozofii. Ačkoliv Agathon nebyl vynikajícím řečníkem, přece přijal pozvání, aby dle svých sil přispěl k propagaci filozofie, jež dle slov dějepisce „zdála se upadati“. V ustanovený den přijel do Boiótie, ale bylo ještě časně; i procházel se Agathon za soumraku kolem města a těšil se z letu vlaštovek nad jeho krovy.
 
 Úderem osmé odebral se do přednáškové síně, ale našel ji skoro prázdnou; jen pět šest mužů sedělo v lavicích. Agathon usedl u katedry a rozhodl se počkati trochu, až se sejde větší množství posluchačů; zatím otevřel svitek, ze kterého chtěl čísti, a pohřížil se do něho.
@@ -38,3 +40,5 @@ Avšak moudří básníci a umělci dovedou i toto prožití vložit do svého d
 Hleďte, odchýlil jsem se již docela od svého programu. Ale co mohu ještě říci? Je-li moudrost v prožití, a nikoli v myšlenkách, je zbytečno, abych předčítal svůj svitek.“
 
 _Lípa 1. 4. 1920_
+
+</section>
