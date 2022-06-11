@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-kniha-apokryfu-ff056cf",
-  "revision": "ff056cf",
+  "identifier": "capek-kniha-apokryfu-1171ca4",
+  "revision": "1171ca4",
   "readingOrder": [
     "promo.html",
     "kniha_apokryfu_005.html",
@@ -48,8 +48,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:51:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883469642
+    "date": "Sat Jun 11 2022 12:04:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949080373
   },
   "documents": [
     {
