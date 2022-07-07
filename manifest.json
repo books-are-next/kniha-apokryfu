@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-kniha-apokryfu-97fcb42",
-  "revision": "97fcb42",
+  "identifier": "capek-kniha-apokryfu-fde6d77",
+  "revision": "fde6d77",
   "readingOrder": [
     "promo.html",
     "kniha_apokryfu_005.html",
@@ -45,11 +45,11 @@
     "kniha_apokryfu_035.html",
     "kniha_apokryfu_036.html",
     "kniha_apokryfu_037.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:10:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979039429
+    "date": "Thu Jul 07 2022 08:31:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182699211
   },
   "documents": [
     {
@@ -138,7 +138,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jako za starých časů",
+          "name": "Jako za starých časů",
           "id": null,
           "children": []
         }
@@ -178,7 +178,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Agathon čili o moudrosti",
+          "name": "Agathon čili o moudrosti",
           "id": null,
           "children": []
         }
@@ -278,7 +278,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pseudolot čili o vlastenectví",
+          "name": "Pseudolot čili o vlastenectví",
           "id": null,
           "children": []
         }
@@ -318,7 +318,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Marta a Maria",
+          "name": "Marta a Maria",
           "id": null,
           "children": []
         }
@@ -613,7 +613,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Romeo a Julie",
+          "name": "Romeo a Julie",
           "id": null,
           "children": []
         }
@@ -633,7 +633,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pan Hynek Ráb z Kufštejna",
+          "name": "Pan Hynek Ráb z Kufštejna",
           "id": null,
           "children": []
         }
@@ -693,7 +693,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -728,7 +728,7 @@
       "role": "chapter",
       "order": 33,
       "prev": "kniha_apokryfu_036.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -741,11 +741,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 863,
+      "chars": 862,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kniha_apokryfu_037.html",
       "next": null,
@@ -763,7 +763,7 @@
   "totals": {
     "all": {
       "words": 33676,
-      "chars": 195133,
+      "chars": 195132,
       "ideas": 1242
     },
     "chapters": {

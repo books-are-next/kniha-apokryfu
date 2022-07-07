@@ -48,7 +48,7 @@ readingOrder:
   - kniha_apokryfu_035.html
   - kniha_apokryfu_036.html
   - kniha_apokryfu_037.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
