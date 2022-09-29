@@ -5,13 +5,13 @@ contentType: prose
 
 <section>
 
-Boiótští[\[6\]](./resources/undefined) akademikové pozvali z Athén filozofa Agathona, aby jim přednášel o filozofii. Ačkoliv Agathon nebyl vynikajícím řečníkem, přece přijal pozvání, aby dle svých sil přispěl k propagaci filozofie, jež dle slov dějepisce „zdála se upadati“. V ustanovený den přijel do Boiótie, ale bylo ještě časně; i procházel se Agathon za soumraku kolem města a těšil se z letu vlaštovek nad jeho krovy.
+Boiótští[^6] akademikové pozvali z Athén filozofa Agathona, aby jim přednášel o filozofii. Ačkoliv Agathon nebyl vynikajícím řečníkem, přece přijal pozvání, aby dle svých sil přispěl k propagaci filozofie, jež dle slov dějepisce „zdála se upadati“. V ustanovený den přijel do Boiótie, ale bylo ještě časně; i procházel se Agathon za soumraku kolem města a těšil se z letu vlaštovek nad jeho krovy.
 
 Úderem osmé odebral se do přednáškové síně, ale našel ji skoro prázdnou; jen pět šest mužů sedělo v lavicích. Agathon usedl u katedry a rozhodl se počkati trochu, až se sejde větší množství posluchačů; zatím otevřel svitek, ze kterého chtěl čísti, a pohřížil se do něho.
 
 Tento svitek obsahoval všechny základní otázky filozofie; počínal teorií poznání, definoval pravdu, odbyl drtivou kritikou bludné názory, to jest všechny filozofie světa krom Agathonovy, a podával nárys nejvyšších idejí. Když Agathon dospěl až sem, zvedl oči; viděl, že všech posluchačů je devět, i popadl ho hněv a lítost a on uhodiv svitkem o stůl začal takto:
 
-„Dámy a pánové, či spíše andres Boiótikoi[\[7\]](./resources/undefined), nezdá se, že by vaše město mělo veliký zájem o vznešené otázky, které máme na programu. Vím, mužové boiótští, že vás právě zaměstnávají volby do místní búlé[\[8\]](./resources/undefined) a že v takové chvíli není místa pro moudrost, ba ani pro rozum; volby jsou příležitost chytráků.“
+„Dámy a pánové, či spíše andres Boiótikoi[^7], nezdá se, že by vaše město mělo veliký zájem o vznešené otázky, které máme na programu. Vím, mužové boiótští, že vás právě zaměstnávají volby do místní búlé[^8] a že v takové chvíli není místa pro moudrost, ba ani pro rozum; volby jsou příležitost chytráků.“
 
 Tu se Agathon trochu zarazil a přemýšlel trochu. „Počkejme,“ začal opět, „právě mně vyklouzlo z úst něco, o čem jsem dosud neuvažoval. Řekl jsem tři slova: chytrost – rozum – moudrost. Řekl jsem je v hněvu. Všechna tři znamenají jakousi schopnost intelektu; cítím, že mají docela různý smysl, ale stěží bych dovedl říci, čím se liší. Odpusťte, hned se vrátím k programu; jen ta tři slovíčka si musím drobet objasnit.
 

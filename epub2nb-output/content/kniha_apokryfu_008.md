@@ -9,7 +9,7 @@ K Eupatorovi, občanu thébskému a košíkáři, který sedě na dvorku pletl s
 
 „Kde hoří?“ tázal se Eupator a zdálo se, že chce vstát.
 
-„To je horší než oheň,“ pravil Filagoros. „Víš, co se stalo? Chtějí obžalovat našeho vojevůdce Nikomacha! Někteří říkají, že je vinen z nějakých piklů s Thesalskými, a jiní tvrdí, že se mu vytýkají jakési styky se Stranou Nespokojených. Pojď honem, srocujeme se na agoře[\[3\]](./resources/undefined)!“
+„To je horší než oheň,“ pravil Filagoros. „Víš, co se stalo? Chtějí obžalovat našeho vojevůdce Nikomacha! Někteří říkají, že je vinen z nějakých piklů s Thesalskými, a jiní tvrdí, že se mu vytýkají jakési styky se Stranou Nespokojených. Pojď honem, srocujeme se na agoře[^3]!“
 
 „A co bych tam dělal?“ tázal se Eupator nerozhodně.
 

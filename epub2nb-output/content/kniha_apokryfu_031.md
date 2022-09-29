@@ -7,17 +7,17 @@ contentType: prose
 
 Mladý anglický šlechtic Oliver Mendeville, který se zdržoval v Itálii na studijní cestě, dostal ve Florencii zprávu, že jeho otec sir William opustil tento svět. I rozžehnal se sir Oliver s těžkým srdcem a hojnými slzami se signorinou Maddalenou přísahaje, že se vrátí co nejdříve, a vydal se se svým sluhou na cestu směrem k Janovu.
 
-Třetího dne jejich cesty je přepadla řádná prška, právě když vjížděli do jakéhosi hnízda. Sir Oliver se zastavil s koněm pod starým jilmem. „Paolo,“ řekl sluhovi, „podívej se, je-li tu nějaké albergo[\[22\]](./resources/undefined), kde bychom přečkali liják.“
+Třetího dne jejich cesty je přepadla řádná prška, právě když vjížděli do jakéhosi hnízda. Sir Oliver se zastavil s koněm pod starým jilmem. „Paolo,“ řekl sluhovi, „podívej se, je-li tu nějaké albergo[^22], kde bychom přečkali liják.“
 
 „Co se týče sluhy a koní,“ ozval se hlas nad jeho hlavou, „albergo je tamhle za rohem; ale vy, cavaliere, byste prokázal čest mé faře, kdybyste se uchýlil pod její skromný krov.“
 
-Sir Oliver smekl širák a obrátil se k oknu, odkud se na něho vesele šklebil tlustý starý páter. „Vossignoria reverendissima[\[23\]](./resources/undefined),“ řekl uctivě, „prokazujete přílišnou laskavost cizinci, který opouští vaši krásnou zem přetížen vděkem za vše dobré, čím byl tak marnotratně zahrnován.“
+Sir Oliver smekl širák a obrátil se k oknu, odkud se na něho vesele šklebil tlustý starý páter. „Vossignoria reverendissima[^23],“ řekl uctivě, „prokazujete přílišnou laskavost cizinci, který opouští vaši krásnou zem přetížen vděkem za vše dobré, čím byl tak marnotratně zahrnován.“
 
 „Bene, milý synu,“ děl farář, „ale budete-li ještě chvíli mluvit, zmoknete docela. Slezte laskavě z té kobyly a trochu sebou mrskněte, neboť prší tuze.“
 
-Sir Oliver se podivil, když mu molto reverendo parroco[\[24\]](./resources/undefined) vyšel na chodbě v ústrety, – tak maličkého pátera ještě neviděl; když se mu ukláněl, musel se sklonit tak, až se mu nalila do hlavy krev.
+Sir Oliver se podivil, když mu molto reverendo parroco[^24] vyšel na chodbě v ústrety, – tak maličkého pátera ještě neviděl; když se mu ukláněl, musel se sklonit tak, až se mu nalila do hlavy krev.
 
-„I nechte to,“ řekl farář. „Já jsem jenom františkán, cavaliere. Říkají mi padre Ippolito. He, Marietto, dones salámu a vína. Tudy, pane, je tu zatrápená tma. Vy jste Inglese, že? Tak vida, od té doby, co jste se vy Angličané trhli od svaté římské církve, je vás tu v Itálii habaděj. Chápu, signore. Musí se vám stýskat. Koukej, Marietto, ten pán je Inglese. Chudák, takový mladý, a už je to Angličan! Ukrojte si toho salámu, cavaliere, je to pravý veronský. Já říkám, k vínu není nad veronský salám, ať se dají Bolognané vycpat svou mortadelou. Dejte vždycky na veronský salám a slané mandle, milý synu. Vy jste nebyl ve Veroně? Škoda. Odtamtud byl božský Veronese, signore. Já jsem totiž z Verony. Slavné město, pane. Říká se mu město Scaligerů[\[25\]](./resources/undefined). Chutná vám to vínko?“
+„I nechte to,“ řekl farář. „Já jsem jenom františkán, cavaliere. Říkají mi padre Ippolito. He, Marietto, dones salámu a vína. Tudy, pane, je tu zatrápená tma. Vy jste Inglese, že? Tak vida, od té doby, co jste se vy Angličané trhli od svaté římské církve, je vás tu v Itálii habaděj. Chápu, signore. Musí se vám stýskat. Koukej, Marietto, ten pán je Inglese. Chudák, takový mladý, a už je to Angličan! Ukrojte si toho salámu, cavaliere, je to pravý veronský. Já říkám, k vínu není nad veronský salám, ať se dají Bolognané vycpat svou mortadelou. Dejte vždycky na veronský salám a slané mandle, milý synu. Vy jste nebyl ve Veroně? Škoda. Odtamtud byl božský Veronese, signore. Já jsem totiž z Verony. Slavné město, pane. Říká se mu město Scaligerů[^25]. Chutná vám to vínko?“
 
 „Grazias, padre,“ mumlal sir Oliver. „U nás v Anglii se Veroně říká město Juliino.“
 
@@ -33,15 +33,15 @@ Sir Oliver se podivil, když mu molto reverendo parroco[\[24\]](./resources/unde
 
 „To nemůže být ta,“ prohlásil sir Oliver. „Ta pravá Julie zemřela v dívčím věku nejdojemnějším způsobem, jaký si můžete představit.“
 
-„Aha,“ děl molto reverendo, „tak to není ta. Julie, kterou jsem znal, si vzala hraběte Parise a měla s ním osm dětí. Vzorná a ctnostná manželka, mladý pane, kéž vám Bůh dá takovou. Pravda, říkalo se, že předtím se zbláznila do jakéhosi mladého crapulona[\[26\]](./resources/undefined) – Ech, signore, o kom by se něco neříkalo? Mládí je, vímeť, nerozvážné a potrhlé. Buďte rád, cavaliere, že jste mlád. Jsou Inglesi také mladí?“
+„Aha,“ děl molto reverendo, „tak to není ta. Julie, kterou jsem znal, si vzala hraběte Parise a měla s ním osm dětí. Vzorná a ctnostná manželka, mladý pane, kéž vám Bůh dá takovou. Pravda, říkalo se, že předtím se zbláznila do jakéhosi mladého crapulona[^26] – Ech, signore, o kom by se něco neříkalo? Mládí je, vímeť, nerozvážné a potrhlé. Buďte rád, cavaliere, že jste mlád. Jsou Inglesi také mladí?“
 
 „Jsou,“ vzdychl sir Oliver. „Ach, otče, i nás sžírá plamen mladého Romea.“
 
-„Romeo?“ děl padre Ippolito a napil se. „Toho bych měl znát. Jářku, nebyl to ten mladý sciocco, ten hejsek, ten dareba z Monteků, co posekal hraběte Parise? Říkalo se, že prý kvůli Juliettě. Ano, tak. Julie si měla vzít hraběte Parise – dobrá partie, signore, ten Paris byl moc bohatý a hodný mladý pán –, ale Romeo si prý umanul, že Julii dostane on – Taková hloupost, pane,“ bručel padre. „Jako by bohatí Capuletové mohli dát dceru někomu ze zkrachovaných Monteků. A k tomu ještě Montekové drželi s Mantovou, kdežto Capuletové byli na straně milánského vévody. Ne ne. Já myslím, že ten assalto assassinatico[\[27\]](./resources/undefined) proti Parisovi byl obyčejný politický atentát. Dnes je ve všem samá politika, milý synu. To se ví, po tom rabiátství musel Romeo utéci do Mantovy a už se nevrátil.“
+„Romeo?“ děl padre Ippolito a napil se. „Toho bych měl znát. Jářku, nebyl to ten mladý sciocco, ten hejsek, ten dareba z Monteků, co posekal hraběte Parise? Říkalo se, že prý kvůli Juliettě. Ano, tak. Julie si měla vzít hraběte Parise – dobrá partie, signore, ten Paris byl moc bohatý a hodný mladý pán –, ale Romeo si prý umanul, že Julii dostane on – Taková hloupost, pane,“ bručel padre. „Jako by bohatí Capuletové mohli dát dceru někomu ze zkrachovaných Monteků. A k tomu ještě Montekové drželi s Mantovou, kdežto Capuletové byli na straně milánského vévody. Ne ne. Já myslím, že ten assalto assassinatico[^27] proti Parisovi byl obyčejný politický atentát. Dnes je ve všem samá politika, milý synu. To se ví, po tom rabiátství musel Romeo utéci do Mantovy a už se nevrátil.“
 
 „To je omyl,“ vyhrkl sir Oliver. „Prosím za prominutí, padre, ale tak to nebylo. Julie milovala Romea, ale rodiče ji nutili, aby si vzala hraběte Parise –“
 
-„Však věděli proč,“ souhlasil starý farář. „Romeo byl ribaldo[\[28\]](./resources/undefined) a držel s Mantovou.“
+„Však věděli proč,“ souhlasil starý farář. „Romeo byl ribaldo[^28] a držel s Mantovou.“
 
 „Ale před svatbou s Parisem jí otec Lorenzo opatřil prášek, aby upadla do zdánlivé smrti,“ pokračoval sir Oliver.
 
@@ -57,7 +57,7 @@ Sir Oliver se podivil, když mu molto reverendo parroco[\[24\]](./resources/unde
 
 „Promiňte, padre,“ trval na svém Oliver, „já to viděl těmahle očima – vždyť jsem seděl v první řadě! V tu chvíli procitla Julie, a když viděla, že její miláček Romeo je mrtev, vzala také jed a skonala.“
 
-„Co vás nemá,“ zlobil se padre Ippolito. „Se divím, kdo nadělal tyhle klepy. Pravda je, že Romeo utekl do Mantovy a chudáček Julie se z lítosti nad tím drobátko přiotrávila. Ale nic to nebylo, cavaliere, jen takové dětinské; prosím vás, bylo jí sotva patnáct let. – Já to vím od toho Lorenza, mladý pane; to se rozumí, já byl tehdy takovýhle ragazzo[\[29\]](./resources/undefined),“ ukazoval dobrý páter asi loket od země. „Julii potom odvezli k tetě do Besenzana, aby se zotavila. Tam za ní přijel hrabě Paris, měl ještě ruku v obvazku a to víte, jak to v takovém pádu bývá: byla z toho láska jako trám. Za tři měsíce se vzali. Ecco, signore, tak to v životě chodí. Já sám jsem byl na její svatbě ministrantem v bílé komžičce.“
+„Co vás nemá,“ zlobil se padre Ippolito. „Se divím, kdo nadělal tyhle klepy. Pravda je, že Romeo utekl do Mantovy a chudáček Julie se z lítosti nad tím drobátko přiotrávila. Ale nic to nebylo, cavaliere, jen takové dětinské; prosím vás, bylo jí sotva patnáct let. – Já to vím od toho Lorenza, mladý pane; to se rozumí, já byl tehdy takovýhle ragazzo[^29],“ ukazoval dobrý páter asi loket od země. „Julii potom odvezli k tetě do Besenzana, aby se zotavila. Tam za ní přijel hrabě Paris, měl ještě ruku v obvazku a to víte, jak to v takovém pádu bývá: byla z toho láska jako trám. Za tři měsíce se vzali. Ecco, signore, tak to v životě chodí. Já sám jsem byl na její svatbě ministrantem v bílé komžičce.“
 
 Sir Oliver seděl jaksi zdrcen. „Nezlobte se, otče,“ řekl konečně, „ale v té anglické hře je to tisíckrát krásnější.“
 
@@ -73,7 +73,7 @@ Mladý Oliver se vytrhl z jakési roztržitosti. „A co se stalo s Romeem?“
 
 „Ten? Ani dobře nevím. Něco jsem o něm zaslechl. – Aha, už to mám. Zamiloval se v Mantově do dcery nějakého marquesa – jakpak on se jmenoval? Monfalcone, Montefalco nebo tak nějak. Ach, cavaliere, to bylo to, čemu vy říkáte veliká láska! Dokonce ji unesl nebo co – byla to nějaká tuze romantická historie, ale podrobnosti jsem zapomněl; prosím vás, to se stalo v Mantově. Ale měla to být nějaká passione senza esempio, nějaká náramná vášeň, pane. Aspoň se tak povídalo. Ecco, signore, ono už neprší.“
 
-Sir Oliver vstával ve své celé rozpačité výšce. „Byl jste ohromně laskav, padre. Thank you so much. Směl bych tu snad něco nechat… pro vaše chudé farníky,“ mumlal červenaje se a strkaje pod kraj talíře hrst zecchinů[\[30\]](./resources/undefined).
+Sir Oliver vstával ve své celé rozpačité výšce. „Byl jste ohromně laskav, padre. Thank you so much. Směl bych tu snad něco nechat… pro vaše chudé farníky,“ mumlal červenaje se a strkaje pod kraj talíře hrst zecchinů[^30].
 
 „Ale, ale,“ hrozil se padre Ippolito a třepal rukama, „co vás nemá, tolik peněz za ždibec veronského salámu!“
 

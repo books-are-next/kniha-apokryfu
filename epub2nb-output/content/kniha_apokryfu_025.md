@@ -105,7 +105,7 @@ Opat mlčel s rukama sepnutýma.
 
 „Asi ano.“
 
-„To je dobře,“ zachichtal se opat. „On to je hrozně špatný obraz, člověče. Ještě jsem neviděl tak nemožné panáky; a tomu se říká kompoziční důvody! Já vám řeknu, Prokopie, že špatná kresba je hřích a rouhání; je to proti Pánubohu. A tomu se mají lidé klanět? Nene! Pravda je, že klanět se špatným obrazům je opravdu modlářství. Já se nedivím, že se proti tomu ti lidé bouří. Mají docela pravdu. Krétská škola je blud; a takový Papanastasias je horší kacíř než nějaký arián[\[17\]](./resources/undefined). Tak vy říkáte,“ žvatlal opat radostně, „že by ty mazanice otloukli? Dobré zprávy mi nesete, milý synu. Jsem rád, že jste přišel.“ Nikeforos se s námahou zvedl na znamení, že je audience u konce. „Krásné počasí máme, že?“
+„To je dobře,“ zachichtal se opat. „On to je hrozně špatný obraz, člověče. Ještě jsem neviděl tak nemožné panáky; a tomu se říká kompoziční důvody! Já vám řeknu, Prokopie, že špatná kresba je hřích a rouhání; je to proti Pánubohu. A tomu se mají lidé klanět? Nene! Pravda je, že klanět se špatným obrazům je opravdu modlářství. Já se nedivím, že se proti tomu ti lidé bouří. Mají docela pravdu. Krétská škola je blud; a takový Papanastasias je horší kacíř než nějaký arián[^17]. Tak vy říkáte,“ žvatlal opat radostně, „že by ty mazanice otloukli? Dobré zprávy mi nesete, milý synu. Jsem rád, že jste přišel.“ Nikeforos se s námahou zvedl na znamení, že je audience u konce. „Krásné počasí máme, že?“
 
 Prokopios povstal, zřejmě zdrcen. „Nikefore,“ vyhrkl, „ale také jiné obrazy budou zničeny! Slyšíte, všechno umění bude spáleno a rozbito!“
 
