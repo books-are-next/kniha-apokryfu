@@ -7,7 +7,7 @@ contentType: prose
 
 Byla noc a mužové achájští sesedli se blíže k ohňům.
 
-„Ta skopová zas nebyla k žrádlu,“ ozval se Thersites dloubaje se v zubech. „Já se vám divím, Achájci, že si to necháte líbit. Vsadil bych se, že oni měli k večeři nejmíň beránky zimrlíky[\[4\]](./resources/undefined); ale to se ví, pro nás, staré vojáky, je smradlavý kozel dost dobrý. Lidi, když si vzpomenu na to skopové u nás v Řecku –“
+„Ta skopová zas nebyla k žrádlu,“ ozval se Thersites dloubaje se v zubech. „Já se vám divím, Achájci, že si to necháte líbit. Vsadil bych se, že oni měli k večeři nejmíň beránky zimrlíky[^4]; ale to se ví, pro nás, staré vojáky, je smradlavý kozel dost dobrý. Lidi, když si vzpomenu na to skopové u nás v Řecku –“
 
 „Nech toho, Thersite,“ bručel tatík Eupator. „Válka je válka.“
 
@@ -21,7 +21,7 @@ Byla noc a mužové achájští sesedli se blíže k ohňům.
 
 „A to se moc mejlíš,“ hlaholil Thersites. „To ví každé dítě, že Trojští jsou zbabělci, skety, svrabaři a chamraď. Jen jim jednou pěkně od plic ukázat, kdo jsme my, Řekové! To byste koukali, jak by zalezli a škemrali o milost! Stačilo by sem tam přepadnout trojské ženské, když jdou večer pro vodu –“
 
-„Přepadat ženské,“ krčil rameny megarský[\[5\]](./resources/undefined) Hippodamos, „to se, Thersite, nedělá.“
+„Přepadat ženské,“ krčil rameny megarský[^5] Hippodamos, „to se, Thersite, nedělá.“
 
 „Válka je válka,“ zvolal Thersites udatně. „Ty jsi mi, Hippodame, pěkný vlastenec! Myslíš, že vyhrajeme válku tím, že milostpán Achilles jednou za čtvrt roku uspořádá veřejné potýkání s tím vozembouchem Hektorem? Člověče, ti dva to mají smluvené a sehrané jedna radost; jejich souboje, to je sólo numero, aby si jelimánci mysleli, že ti dva za ně bojují! Hej, Trojo, hej, Helado, pojďte čumět na pány hrdiny! A my ostatní, my nejsme nic, naše utrpení je pro kočku, o nás ani pes neštěkne. Já vám něco povím, Achájci: Achilles dělá hrdinu jen proto, aby sebral všechnu smetanu a nás připravil o válečnické zásluhy; chce, aby se mluvilo jen o něm, jako by on všecko, a ti druzí jakbysmet. Tak je to, mládenci. A ta válka se tak courá jen proto, aby se pan Achilles mohl nafukovat jako bůhví jaký rek. Se vám divím, že to nevidíte.“
 

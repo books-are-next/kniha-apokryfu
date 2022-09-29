@@ -33,7 +33,7 @@ Pan Hynek se uchechtl. „Aby nebyla! Musí být: copak máme nadarmo mír? Á, 
 
 „Inu,“ pravil pan Janek opatrně, „málo-li se povídá o Turkovi?“
 
-„To jsou hlouposti,“ řekl pan Hynek Ráb rozhodně. „Ale copak se sluší, aby český král dělal honéry[\[31\]](./resources/undefined) Polákovi? Hanba je to,“ křikl pan Hynek. „Měl čekat, až přijde Polák k němu! To jsme to, pane Janku, dopracovali! Co by tomu tak řekl nebožtík císař Karel nebo Zikmund? Tehdy jsme, drahý pane, měli ještě nějaký mezinárodní prestiž –“ Pan Ráb si odplivl. „Tfuj! Se divím, že si my Češi dáme takovou ostudu líbit.“
+„To jsou hlouposti,“ řekl pan Hynek Ráb rozhodně. „Ale copak se sluší, aby český král dělal honéry[^31] Polákovi? Hanba je to,“ křikl pan Hynek. „Měl čekat, až přijde Polák k němu! To jsme to, pane Janku, dopracovali! Co by tomu tak řekl nebožtík císař Karel nebo Zikmund? Tehdy jsme, drahý pane, měli ještě nějaký mezinárodní prestiž –“ Pan Ráb si odplivl. „Tfuj! Se divím, že si my Češi dáme takovou ostudu líbit.“
 
 To jsou věci, mrzel se pan Janek Chval. A nač mi to vůbec povídá? Jako bych neměl dost svých starostí – –
 
@@ -59,7 +59,7 @@ Pan Janek Chval z Jankova pokyvoval hlavou. Musím pamatovat na zásoby, mínil.
 
 Pan Hynek Ráb z Kufštejna plácl rozjařeně do stolu. „Pane tcháne, my se toho ještě dožijeme! Na zdraví! Hej, chlapče, sem s tím džbánem! Nalej mi vína, nevidíš, že přede mnou je prázdná číš? A na zdraví naší věci!“
 
-„Wohl bekomm’s[\[32\]](./resources/undefined),“ děl starý Janek zdvořile.
+„Wohl bekomm’s[^32],“ děl starý Janek zdvořile.
 
 _Lidové noviny 15. 1. 1933_
 

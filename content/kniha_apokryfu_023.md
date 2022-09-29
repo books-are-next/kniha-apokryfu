@@ -19,7 +19,7 @@ Ale Antonia zůstala stát. „Diokleciáne,“ začala téměř slavnostně, �
 
 Antonia bezděky poslechla a sedla si na kraj židle; tím trochu ztratila bojovný postoj, zmenšila se a zmátla se; koutky úst jí změkly pláčem. „Ti lidé jsou tak svatí, Diokleciáne,“ vypravila ze sebe, „a tak krásně věří – – Já vím, kdybys ty je znal – – Diokleciáne, ty je musíš poznat! Uvidíš, že… že pak budeš mít o nich docela jiné mínění –“
 
-„Ale vždyť já o nich nemám žádné špatné mínění,“ namítl Dioklecián mírně. „Já přece vím, že to, co se o nich říká, jsou tlachy a pomluvy. To si o nich vymýšlejí naši auguři[\[15\]](./resources/undefined) – to víš, konkurenční zášť a tak dále. Já jsem si to dal zjistit a slyším, že ti křesťané jsou jinak docela řádní lidé. Velice slušní a obětaví.“
+„Ale vždyť já o nich nemám žádné špatné mínění,“ namítl Dioklecián mírně. „Já přece vím, že to, co se o nich říká, jsou tlachy a pomluvy. To si o nich vymýšlejí naši auguři[^15] – to víš, konkurenční zášť a tak dále. Já jsem si to dal zjistit a slyším, že ti křesťané jsou jinak docela řádní lidé. Velice slušní a obětaví.“
 
 „Tak proč je tolik pronásleduješ?“ ptala se užasle Antonia.
 
@@ -31,7 +31,7 @@ Dioklecián zvedl trochu obočí. „Proč? Prosím tě, to je otázka! Odjakži
 
 „Ale spravedlnost, Diokleciáne,“ řekla tiše Antonia, „spravedlnost musí být. Já od tebe žádám jen spravedlnost.“
 
-Dioklecián pokrčil rameny. „Pronásledování křesťanů je spravedlivé, protože odpovídá platným zákonům. Já vím, co máš na jazyku: že bych ty zákony mohl zrušit. Mohl, ale neudělám to. Milá Toni, pamatuj si, minima non curat praetor[\[16\]](./resources/undefined); já se o takové patálie starat nemohu. Vezmi laskavě v úvahu, že mám na krku celou administrativu říše; a, děvče, já ji předělal od základu. Já jsem přebudoval ústavu, já reformoval senát, centralizoval správu, reorganizoval celou byrokracii, nově rozdělil provincie, upravil jejich správní řád – to všechno jsou věci, které se musely stát v zájmu státu. Ty jsi ženská a nerozumíš tomu; ale nejvážnější úkoly státníka jsou administrativní. Řekni sama, co znamenají takoví křesťané proti – proti – řekněme proti zřízení říšské finanční kontroly? To jsou hlouposti.“
+Dioklecián pokrčil rameny. „Pronásledování křesťanů je spravedlivé, protože odpovídá platným zákonům. Já vím, co máš na jazyku: že bych ty zákony mohl zrušit. Mohl, ale neudělám to. Milá Toni, pamatuj si, minima non curat praetor[^16]; já se o takové patálie starat nemohu. Vezmi laskavě v úvahu, že mám na krku celou administrativu říše; a, děvče, já ji předělal od základu. Já jsem přebudoval ústavu, já reformoval senát, centralizoval správu, reorganizoval celou byrokracii, nově rozdělil provincie, upravil jejich správní řád – to všechno jsou věci, které se musely stát v zájmu státu. Ty jsi ženská a nerozumíš tomu; ale nejvážnější úkoly státníka jsou administrativní. Řekni sama, co znamenají takoví křesťané proti – proti – řekněme proti zřízení říšské finanční kontroly? To jsou hlouposti.“
 
 „Ale ty, Diokleciáne,“ vydechla Antonia, „bys to mohl tak snadno zařídit –“
 

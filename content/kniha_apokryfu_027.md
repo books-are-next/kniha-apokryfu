@@ -7,7 +7,7 @@ contentType: prose
 
 Lidé na náměstí svatého Marka se stěží ohlédli, když pochopové vedli toho staříka k dóžeti. Byl velmi sešlý a špinavý, řeklo by se, že je to nějaký zlodějíček z přístavu.
 
-„Tento muž,“ hlásil podestà vicegerente[\[18\]](./resources/undefined) před dóžecím trůnem, „praví, že se jmenuje Giovanni Fialho, kupec z Lisabonu; tvrdí, že byl majitelem lodi a že ho s celou posádkou a nákladem zajali alžírští piráti; vypovídá, že se mu podařilo utéci z galejí a že by mohl prokázat Benátské republice znamenité služby – jaké, to prý může svěřiti jen dóžecí Milosti samotné.“
+„Tento muž,“ hlásil podestà vicegerente[^18] před dóžecím trůnem, „praví, že se jmenuje Giovanni Fialho, kupec z Lisabonu; tvrdí, že byl majitelem lodi a že ho s celou posádkou a nákladem zajali alžírští piráti; vypovídá, že se mu podařilo utéci z galejí a že by mohl prokázat Benátské republice znamenité služby – jaké, to prý může svěřiti jen dóžecí Milosti samotné.“
 
 Starý dóže se pozorně díval na ježatého staříka svýma ptačíma očima. „Tak ty,“ děl konečně, „povídáš, že jsi pracoval na galéře?“
 
@@ -139,7 +139,7 @@ Biskup z Pordenone vrtěl povážlivě hlavou. „Přes ty hory, člověče, se 
 
 „Inu, jaké stromy,“ vypravil ze sebe nešťastník, „známo, jaké stromy. Palmy, monsignore.“
 
-„Tak vidíš, že lžeš,“ řekl biskup vítězně. „Podle Bubona z Biskry, který je v těchto věcech autorita, rostou v Ofiru granátovníky, které mají místo zrn karbunkule[\[19\]](./resources/undefined). Vymyslel sis, brachu, hloupou historii!“
+„Tak vidíš, že lžeš,“ řekl biskup vítězně. „Podle Bubona z Biskry, který je v těchto věcech autorita, rostou v Ofiru granátovníky, které mají místo zrn karbunkule[^19]. Vymyslel sis, brachu, hloupou historii!“
 
 Giovanni Fialho padl na kolena. „Jako je Bůh nade mnou, monsignore, jak by si mohl nevzdělaný kupec jako já vymyslet Ofir?“
 

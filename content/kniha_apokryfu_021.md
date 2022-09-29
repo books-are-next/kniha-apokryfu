@@ -11,7 +11,7 @@ Toho dne večeřel Pilát se svým pobočníkem: byl to mladý poručík Suza, r
 
 Pilát pokynul. „Jednou jsem už viděl zemětřesení,“ řekl. „To bylo v Cilicii, počkej, bude tomu sedmnáct let – tak nějak. Tehdy to bylo větší.“
 
-„Ono se dohromady nic nestalo,“ hlásal Suza bezstarostně. „U brány k Hakeldamě[\[13\]](./resources/undefined) se udrolil kousek skály – ano, a na hřbitově se otevřelo pár hrobů. Se divím, že tady pochovávají tak mělko, stěží na loket. Však jim to v létě smrdí.“
+„Ono se dohromady nic nestalo,“ hlásal Suza bezstarostně. „U brány k Hakeldamě[^13] se udrolil kousek skály – ano, a na hřbitově se otevřelo pár hrobů. Se divím, že tady pochovávají tak mělko, stěží na loket. Však jim to v létě smrdí.“
 
 „Zvyk,“ zabručel Pilát. „Například v Persii vůbec nepochovávají. Položí mrtvolu na slunce a je to.“
 
@@ -31,7 +31,7 @@ Pilát pokynul. „Jednou jsem už viděl zemětřesení,“ řekl. „To bylo v
 
 „Co čekal?“ připomenul mu Suza po chvilce.
 
-„Že snad přijdou ti jeho Betlemáci. Že ho nenechají v prackách těch zdejších pletichářů. Že přijdou ke mně a řeknou: Pane, on je náš člověk a něco pro nás znamená; my vám teda jdeme říci, že za ním stojíme a nenecháme mu ukřivdit. – Suzo, já jsem se skoro těšil na ty lidi z hor; mám už po krk těch zdejších melhubů a sudičů – – A já bych jim řekl: Zaplať pánbůh, Betlemáci, čekal jsem na vás. Kvůli němu – a kvůli vám i vaší zemi. Hadrům na holi se nedá vládnout; vládnout se dá jenom mužům, a ne hubám. Z lidí, jako jste vy, se dělají vojáci, kteří se nedají; z lidí, jako jste vy, se dělají národy a státy. Říkají mi, že ten váš krajan oživuje mrtvé. Prosím vás, co s mrtvými? Ale vy jste tu, a já vidím, že ten muž dovede oživovat i živé: že jim vnukl něco jako věrnost a čest a – my Římané tomu říkáme virtus[\[14\]](./resources/undefined); nevím, jak se to jmenuje ve vašem jazyce, Betlemáci, ale je to ve vás. Myslím, že ten člověk ještě něco pořídí. Byla by ho škoda.“
+„Že snad přijdou ti jeho Betlemáci. Že ho nenechají v prackách těch zdejších pletichářů. Že přijdou ke mně a řeknou: Pane, on je náš člověk a něco pro nás znamená; my vám teda jdeme říci, že za ním stojíme a nenecháme mu ukřivdit. – Suzo, já jsem se skoro těšil na ty lidi z hor; mám už po krk těch zdejších melhubů a sudičů – – A já bych jim řekl: Zaplať pánbůh, Betlemáci, čekal jsem na vás. Kvůli němu – a kvůli vám i vaší zemi. Hadrům na holi se nedá vládnout; vládnout se dá jenom mužům, a ne hubám. Z lidí, jako jste vy, se dělají vojáci, kteří se nedají; z lidí, jako jste vy, se dělají národy a státy. Říkají mi, že ten váš krajan oživuje mrtvé. Prosím vás, co s mrtvými? Ale vy jste tu, a já vidím, že ten muž dovede oživovat i živé: že jim vnukl něco jako věrnost a čest a – my Římané tomu říkáme virtus[^14]; nevím, jak se to jmenuje ve vašem jazyce, Betlemáci, ale je to ve vás. Myslím, že ten člověk ještě něco pořídí. Byla by ho škoda.“
 
 Pilát umlkl a roztržitě smetal ze stolu drobečky. „Nu, nepřišli,“ zabručel. „Ach, Suzo, jaká marná věc je vládnout!“
 

@@ -7,13 +7,13 @@ contentType: prose
 
 Mlle Claire (od Comédie française) ani nedutala; věděla, že se císař občas takto zamyslí a je nerad vyrušován. Ostatně, mezi námi, o čem s ním mluvit? Co chcete, je to přece jen císař; člověk se tu necítí doma, není-liž pravda? (Je to přese vše cizinec, dumá Mlle Claire, pas très Parisien.) (Nicméně takto u krbu má dost hezkou tvář.) (Kdyby ovšem nebyl tak zavalitý.) (Là là, nemá to ani žádný krk, c’est drôle.) (Ale víte, mohl by být poněkud zdvořilejší!)
 
-Na krbu tikají těžké mramorové hodiny. Zítra, myslí si císař, musím přijmout zástupce měst – je to hloupé, ale co dělat; jistě si budou naříkat na daně. Potom rakouský vyslanec – pořád ta historie. Pak se přijdou představit noví soudní prezidenti – musím si předtím přečíst, kde který z nich působil; ty lidi to těší, že o nich něco vím. Císař počítá na prstech. Ještě něco? Ano, comte Ventura, zas bude donášet na papeže – – Napoleon potlačil zívnutí. Bože, jaká otrava! Měl bych si zavolat toho – jak se jmenuje? toho obratného človíčka, co se teď vrátil z Anglie. Jak se ten chlapík jenom jmenuje – porco[\[33\]](./resources/undefined), vždyť je to můj nejlepší zvěd!
+Na krbu tikají těžké mramorové hodiny. Zítra, myslí si císař, musím přijmout zástupce měst – je to hloupé, ale co dělat; jistě si budou naříkat na daně. Potom rakouský vyslanec – pořád ta historie. Pak se přijdou představit noví soudní prezidenti – musím si předtím přečíst, kde který z nich působil; ty lidi to těší, že o nich něco vím. Císař počítá na prstech. Ještě něco? Ano, comte Ventura, zas bude donášet na papeže – – Napoleon potlačil zívnutí. Bože, jaká otrava! Měl bych si zavolat toho – jak se jmenuje? toho obratného človíčka, co se teď vrátil z Anglie. Jak se ten chlapík jenom jmenuje – porco[^33], vždyť je to můj nejlepší zvěd!
 
 „Sacrebleu,“ bručí císař, „jak se ten chlap jmenuje!“
 
 Mlle Claire poposedla a účastně mlčela.
 
-To je jedno, myslí si císař, ať se jmenuje, jak chce; ale jeho zprávy bývají výtečné. Potřebný člověk, ten – ten – maledetto[\[34\]](./resources/undefined)! Hloupé, jak někdy člověku vypadne jméno! Mám přece dobrou paměť na jména, diví se císař. Kolik tisíc jmen nosím v hlavě – jen těch vojáků co znám jménem! Vsadil bych se, že bych si podnes vzpomněl na jména svých spolužáků z kadetky – i na kamarády z dětství. Počkejme, to byl Tonio zvaný Biglia, Francio alias Riccintello, Tonio Zufolo, Mario Barbabietola, Luca řečený Peto (císař se usmál), Andrea zvaný Puzzo nebo Tirone – Všechny si je pamatuju jménem, říká si císař, ale teď ne a ne si vzpomenout na toho – tonnerre[\[35\]](./resources/undefined)!
+To je jedno, myslí si císař, ať se jmenuje, jak chce; ale jeho zprávy bývají výtečné. Potřebný člověk, ten – ten – maledetto[^34]! Hloupé, jak někdy člověku vypadne jméno! Mám přece dobrou paměť na jména, diví se císař. Kolik tisíc jmen nosím v hlavě – jen těch vojáků co znám jménem! Vsadil bych se, že bych si podnes vzpomněl na jména svých spolužáků z kadetky – i na kamarády z dětství. Počkejme, to byl Tonio zvaný Biglia, Francio alias Riccintello, Tonio Zufolo, Mario Barbabietola, Luca řečený Peto (císař se usmál), Andrea zvaný Puzzo nebo Tirone – Všechny si je pamatuju jménem, říká si císař, ale teď ne a ne si vzpomenout na toho – tonnerre[^35]!
 
 „Madame,“ praví císař zahloubaně, „máte také takovou prapodivnou paměť? Člověk si pamatuje jména svých dětských kumpánů, ale nemůže přijít na jméno člověku, se kterým mluvil před měsícem.“
 
@@ -49,7 +49,7 @@ Bylo ticho. „Ne, ne, ne,“ mumlal císař. „Nevěřte tomu. Ale někdy si �
 
 Byl náhle velmi vášnivý a bezohledný.
 
-„Ah, Sire,“ vydechla Mlle Claire, „comme vous êtes grand![\[36\]](./resources/undefined)“
+„Ah, Sire,“ vydechla Mlle Claire, „comme vous êtes grand![^36]“
 
 _Lidové noviny 1. 1. 1933_
 

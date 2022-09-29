@@ -7,7 +7,7 @@ contentType: prose
 
 Čtyři z Caesarových veteránů, kteří prodělavše galské i britské tažení, se vrátili pokryti slávou a s největším triumfem, jaký kdy svět viděl, tedy tito čtyři hrdinové, a sice Bullio, bývalý desátník, Lucius zvaný pro svou hubenost Macer, Sartor zvaný Hilla, veterinář druhé legie, a konečně Strobus z Gaety se sešli ve vinárně sicilského Řeka a velkého taškáře Onokrata, aby společně vzpomínali na velké a památné vojenské události, jichž byli svědky. Protože bylo trochu horko, postavil jim Onokrates stůl na ulici a tam ti čtyři vojáci popíjeli hlasitě hovoříce. Kdo by se divil, že záhy se kolem nich nakupili lidé z té ulice, řemeslníci, oslaři, děti a ženy s nemluvňaty na rukou, aby naslouchali jejich slovům? Vězte, že slavné činy velikého Caesara tehdy ještě vzbuzovaly zájem všech římských občanů.
 
-„Tak poslouchejte,“ řekl Strobus z Gaety, „co se stalo, když tam na té řece proti nám stálo třicet tisíc Senonů[\[9\]](./resources/undefined).“
+„Tak poslouchejte,“ řekl Strobus z Gaety, „co se stalo, když tam na té řece proti nám stálo třicet tisíc Senonů[^9].“
 
 „Počkej,“ opravil ho Bullio, „předně těch Senonů tam nebylo třicet tisíc, nýbrž stěží osmnáct tisíc, a za druhé ty jsi byl v deváté legii, která nikdy nestála proti Senonům. Vy jste tehdy leželi v táboře v Akvitánii a spravovali jste nám boty, protože u vás sloužili samí prťáci a příštipkáři. Tak, a teď povídej dál.“
 
@@ -19,7 +19,7 @@ contentType: prose
 
 „Co tě nemá,“ namítl Sartor zvaný Hilla, „šestá legie u Bibracte ani nebyla; ta se dostala na frontu teprve na Axoně, když měl komando Galba.“
 
-„Ty tomu rozumíš, ty nunváři[\[10\]](./resources/undefined),“ vece Bullio; „na Axoně byla druhá, třetí a sedmá legie. Šestou dávno poslali Eburoni k maminkám.“
+„Ty tomu rozumíš, ty nunváři[^10],“ vece Bullio; „na Axoně byla druhá, třetí a sedmá legie. Šestou dávno poslali Eburoni k maminkám.“
 
 „To je všecko samá lež,“ pravil Lucius Macer. „Pravda jenom je, že druhá legie, ve které jsem sloužil, bojovala na Axoně; to ostatní jsi si vymyslel.“
 
