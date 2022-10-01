@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-kniha-apokryfu-15365e6",
-  "revision": "15365e6",
+  "identifier": "capek-kniha-apokryfu-9aa4b3a",
+  "revision": "9aa4b3a",
   "readingOrder": [
     "promo.html",
     "kniha_apokryfu_005.html",
@@ -48,8 +48,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:26:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486796795
+    "date": "Sat Oct 01 2022 15:57:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639854247
   },
   "documents": [
     {
@@ -87,9 +87,9 @@
     {
       "title": "Prometheův trest",
       "file": "kniha_apokryfu_006.html",
-      "words": 1180,
-      "chars": 7361,
-      "ideas": 18,
+      "words": 1207,
+      "chars": 7506,
+      "ideas": 20,
       "role": "chapter",
       "order": 2,
       "prev": "kniha_apokryfu_005.html",
@@ -127,9 +127,9 @@
     {
       "title": "Jako za starých časů",
       "file": "kniha_apokryfu_008.html",
-      "words": 597,
-      "chars": 3354,
-      "ideas": 26,
+      "words": 605,
+      "chars": 3398,
+      "ideas": 27,
       "role": "chapter",
       "order": 4,
       "prev": "kniha_apokryfu_007.html",
@@ -147,9 +147,9 @@
     {
       "title": "Thersites",
       "file": "kniha_apokryfu_009.html",
-      "words": 1427,
-      "chars": 8374,
-      "ideas": 28,
+      "words": 1445,
+      "chars": 8479,
+      "ideas": 30,
       "role": "chapter",
       "order": 5,
       "prev": "kniha_apokryfu_008.html",
@@ -167,9 +167,9 @@
     {
       "title": "Agathon čili o moudrosti",
       "file": "kniha_apokryfu_010.html",
-      "words": 935,
-      "chars": 5630,
-      "ideas": 19,
+      "words": 964,
+      "chars": 5788,
+      "ideas": 22,
       "role": "chapter",
       "order": 6,
       "prev": "kniha_apokryfu_009.html",
@@ -227,9 +227,9 @@
     {
       "title": "Římské legie",
       "file": "kniha_apokryfu_013.html",
-      "words": 995,
-      "chars": 5780,
-      "ideas": 40,
+      "words": 1013,
+      "chars": 5875,
+      "ideas": 42,
       "role": "chapter",
       "order": 9,
       "prev": "kniha_apokryfu_012.html",
@@ -307,9 +307,9 @@
     {
       "title": "Marta a Maria",
       "file": "kniha_apokryfu_017.html",
-      "words": 1617,
-      "chars": 8866,
-      "ideas": 37,
+      "words": 1625,
+      "chars": 8910,
+      "ideas": 38,
       "role": "chapter",
       "order": 13,
       "prev": "kniha_apokryfu_016.html",
@@ -367,9 +367,9 @@
     {
       "title": "Benchanan",
       "file": "kniha_apokryfu_020.html",
-      "words": 1019,
-      "chars": 5682,
-      "ideas": 11,
+      "words": 1030,
+      "chars": 5750,
+      "ideas": 12,
       "role": "chapter",
       "order": 16,
       "prev": "kniha_apokryfu_019.html",
@@ -402,9 +402,9 @@
     {
       "title": "Pilátův večer",
       "file": "kniha_apokryfu_021.html",
-      "words": 770,
-      "chars": 4224,
-      "ideas": 17,
+      "words": 792,
+      "chars": 4362,
+      "ideas": 19,
       "role": "chapter",
       "order": 17,
       "prev": "kniha_apokryfu_020.html",
@@ -442,9 +442,9 @@
     {
       "title": "Císař Dioklecián",
       "file": "kniha_apokryfu_023.html",
-      "words": 1243,
-      "chars": 7351,
-      "ideas": 28,
+      "words": 1267,
+      "chars": 7499,
+      "ideas": 30,
       "role": "chapter",
       "order": 19,
       "prev": "kniha_apokryfu_022.html",
@@ -482,9 +482,9 @@
     {
       "title": "Obrazoborectví",
       "file": "kniha_apokryfu_025.html",
-      "words": 1854,
-      "chars": 11447,
-      "ideas": 59,
+      "words": 1869,
+      "chars": 11554,
+      "ideas": 60,
       "role": "chapter",
       "order": 21,
       "prev": "kniha_apokryfu_024.html",
@@ -522,9 +522,9 @@
     {
       "title": "Ofir",
       "file": "kniha_apokryfu_027.html",
-      "words": 1485,
-      "chars": 9001,
-      "ideas": 75,
+      "words": 1508,
+      "chars": 9161,
+      "ideas": 77,
       "role": "chapter",
       "order": 23,
       "prev": "kniha_apokryfu_026.html",
@@ -582,9 +582,9 @@
     {
       "title": "Zpověď Dona Juana",
       "file": "kniha_apokryfu_030.html",
-      "words": 1606,
-      "chars": 9430,
-      "ideas": 42,
+      "words": 1631,
+      "chars": 9577,
+      "ideas": 44,
       "role": "chapter",
       "order": 26,
       "prev": "kniha_apokryfu_029.html",
@@ -602,9 +602,9 @@
     {
       "title": "Romeo a Julie",
       "file": "kniha_apokryfu_031.html",
-      "words": 1428,
-      "chars": 8365,
-      "ideas": 40,
+      "words": 1488,
+      "chars": 8710,
+      "ideas": 49,
       "role": "chapter",
       "order": 27,
       "prev": "kniha_apokryfu_030.html",
@@ -622,9 +622,9 @@
     {
       "title": "Pan Hynek Ráb z Kufštejna",
       "file": "kniha_apokryfu_032.html",
-      "words": 1242,
-      "chars": 6964,
-      "ideas": 30,
+      "words": 1259,
+      "chars": 7049,
+      "ideas": 32,
       "role": "chapter",
       "order": 28,
       "prev": "kniha_apokryfu_031.html",
@@ -642,9 +642,9 @@
     {
       "title": "Napoleon",
       "file": "kniha_apokryfu_033.html",
-      "words": 1016,
-      "chars": 5833,
-      "ideas": 25,
+      "words": 1041,
+      "chars": 5964,
+      "ideas": 29,
       "role": "chapter",
       "order": 29,
       "prev": "kniha_apokryfu_032.html",
@@ -722,9 +722,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "kniha_apokryfu_037.html",
-      "words": 333,
-      "chars": 2172,
-      "ideas": 37,
+      "words": 663,
+      "chars": 4119,
+      "ideas": 73,
       "role": "chapter",
       "order": 33,
       "prev": "kniha_apokryfu_036.html",
@@ -742,9 +742,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 129,
-      "chars": 863,
-      "ideas": 16,
+      "words": 120,
+      "chars": 820,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "kniha_apokryfu_037.html",
@@ -762,14 +762,14 @@
   ],
   "totals": {
     "all": {
-      "words": 33676,
-      "chars": 195210,
-      "ideas": 1242
+      "words": 34327,
+      "chars": 199034,
+      "ideas": 1313
     },
     "chapters": {
-      "words": 33541,
-      "chars": 194311,
-      "ideas": 1222
+      "words": 34201,
+      "chars": 198178,
+      "ideas": 1294
     }
   }
 }
