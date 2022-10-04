@@ -46,7 +46,7 @@ V MKP 2. opravené vydání
 [^34]: Zatracený chlapík, darebák, lump. _Pozn. red._  
 [^35]: Hrome! _Pozn. red._  
 [^36]: Jak jste veliký! _Pozn. red._  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -54,10 +54,10 @@ Znění tohoto textu vychází z díla [Menší prózy](https://search.mlp.cz/cz
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Karel Čapek: Kniha apokryfů), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
