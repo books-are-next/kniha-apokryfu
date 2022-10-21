@@ -46,7 +46,7 @@ V MKP 2. opravené vydání
 [^34]: Zatracený chlapík, darebák, lump. _Pozn. red._  
 [^35]: Hrome! _Pozn. red._  
 [^36]: Jak jste veliký! _Pozn. red._  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
